@@ -1,0 +1,91 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1483,
+            "title": "Correct Collaboration Partners",
+            "description": "You correctly identified the collaboration partners as 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 20,
+            "elementIds": [
+                "da44a12a-c31b-4c63-9051-d4328f4b4b11",
+                "eed16cd7-2b35-41f5-93dd-46d0114c49e2"
+            ]
+        },
+        {
+            "id": 1484,
+            "title": "Correct Process Flow",
+            "description": "The process flow from 'Send credit request' to 'Review quote' for the Loan Applicant and 'Credit request received' to 'Send quote' for the Credit Institute is correctly modeled. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 20,
+            "elementIds": [
+                "af87f533-bd57-4825-8278-cefea5ad3bdc",
+                "503c6e68-75bf-4ee2-997e-f9a254b341e4",
+                "c26bad33-f272-44ab-87fa-0df9db8aa4a2",
+                "f156115c-76cb-4162-8369-11344744d5ee"
+            ]
+        },
+        {
+            "id": 1485,
+            "title": "Correct Use of Gateways",
+            "description": "You correctly used the exclusive gateway to model the decision point 'Standard terms applicable?' and the parallel gateway to model the concurrent tasks. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 20,
+            "elementIds": [
+                "b560c686-14a8-4ee0-ae05-4a950bffd2c9",
+                "8610bc57-3a4b-41e9-acc5-fc000db2592b"
+            ]
+        },
+        {
+            "id": 1486,
+            "title": "Correct End Events",
+            "description": "The end events 'Quote sent' for the Credit Institute and the unnamed end event for the Loan Applicant are correctly modeled. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 20,
+            "elementIds": [
+                "e7f2e69e-0d86-4856-948d-80e9c85029de",
+                "3d081d70-b6fa-4b83-b94a-932cdcc992c9"
+            ]
+        },
+        {
+            "id": 1487,
+            "title": "Incorrect Sequence Flow",
+            "description": "The sequence flow from 'Send credit request' to 'Quote received' (id-42) is duplicated and incorrectly modeled. Please correct this.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 20,
+            "elementIds": [
+                "7e5c70ee-6be1-4a30-903f-740efda1b3ab"
+            ]
+        },
+        {
+            "id": 1488,
+            "title": "Incorrect Task Modeling",
+            "description": "The task 'Prepare contract' (id-38) is incorrectly modeled. It should be connected to the exclusive gateway (id-28) instead of the task 'Send quote' (id-30). Please correct this.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 20,
+            "elementIds": [
+                "649452db-0364-411c-89bb-5c4c36833901"
+            ]
+        }
+    ],
+    "meta": {}
+}

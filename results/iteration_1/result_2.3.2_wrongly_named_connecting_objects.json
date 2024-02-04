@@ -1,0 +1,147 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1557,
+            "title": "Correct Collaboration Partners",
+            "description": "You correctly identified the collaboration partners as 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 30,
+            "elementIds": [
+                "2a63f952-263f-492f-9136-01899d511243",
+                "a9922b0d-b767-4252-b91d-02ea2c347229"
+            ]
+        },
+        {
+            "id": 1558,
+            "title": "Correct Process Flow",
+            "description": "The process flow of the credit request from the Loan Applicant to the Credit Institute is accurately represented. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 30,
+            "elementIds": [
+                "12291b58-f990-45a5-acf2-d9f13e50c171",
+                "44139bbb-403e-42ef-82a8-44d770e53b79"
+            ]
+        },
+        {
+            "id": 1559,
+            "title": "Correct Task Representation",
+            "description": "You have correctly represented the tasks such as 'Send credit request', 'Review request', 'Assess risk', 'Calculate terms', 'Prepare special terms', 'Prepare contract', and 'Send quote'. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 30,
+            "elementIds": [
+                "12291b58-f990-45a5-acf2-d9f13e50c171",
+                "4550572b-b660-4544-9207-1d668d758949",
+                "de186b76-886a-4915-8447-37d576b67f59",
+                "9d70c433-6afa-4766-b2bd-a12e45d9622c",
+                "cf4f47fc-2d47-4cac-9475-753f5724094b",
+                "0241143d-4d53-4657-bdda-fa917f831458",
+                "11aa94b8-49ed-4bcd-98a9-ed6ba3a96c93"
+            ]
+        },
+        {
+            "id": 1560,
+            "title": "Correct Use of Gateways",
+            "description": "You have correctly used the parallel and exclusive gateways in the process. This shows a good understanding of the BPMN 2.0 standard.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 30,
+            "elementIds": [
+                "a1f9e499-2d8d-4705-a4d5-32a69700c590",
+                "2ab237d9-c661-43ee-a18c-fbb574ee940a",
+                "1c4ebd45-26ee-4e9f-bf3d-33472cc58a78",
+                "71f0fa75-02d4-4385-a01f-5c481c89a8a9"
+            ]
+        },
+        {
+            "id": 1561,
+            "title": "Correct End Events",
+            "description": "The end events 'Quote sent' and 'Quote received' are correctly represented. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 30,
+            "elementIds": [
+                "471dbdb7-2f2f-4510-8519-511540845421",
+                "1d495adb-59ff-42ab-a93e-013d447a9c16"
+            ]
+        },
+        {
+            "id": 1562,
+            "title": "Incorrect Sequence Flow",
+            "description": "There seems to be an error in the sequence flow. The 'Review quote' task should be connected to the 'Quote received' event, not the other way around. Please correct this.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 30,
+            "elementIds": [
+                "b409934a-f4ad-4bcb-a157-4457c97e17fb"
+            ]
+        },
+        {
+            "id": 1563,
+            "title": "Missing Start Event for Loan Applicant",
+            "description": "The start event for the Loan Applicant is missing. Please add this to your model.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 30,
+            "elementIds": []
+        },
+        {
+            "id": 1564,
+            "title": "Incorrect Message Flow",
+            "description": "The message flow from 'Send quote' to 'Quote received' is incorrect. The message should flow from the 'Credit Institute' to the 'Loan Applicant'. Please correct this.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 30,
+            "elementIds": [
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        },
+        {
+            "id": 1565,
+            "title": "Incorrect Use of End Event",
+            "description": "The end event with id-6 in the Loan Applicant process is incorrectly used. Please correct this.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 30,
+            "elementIds": [
+                "1d495adb-59ff-42ab-a93e-013d447a9c16"
+            ]
+        },
+        {
+            "id": 1566,
+            "title": "Duplicate Sequence Flow ID",
+            "description": "The sequence flow id-42 is duplicated. Please ensure each element has a unique ID.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 30,
+            "elementIds": [
+                "2a63f952-263f-492f-9136-01899d511243"
+            ]
+        }
+    ],
+    "meta": {}
+}

@@ -1,0 +1,150 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1507,
+            "title": "Correct Collaboration Partners",
+            "description": "You correctly identified the collaboration partners as 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": [
+                "9c7359b1-2b60-41bd-ad75-efe8f1e4bb86",
+                "573bb998-d782-490e-b88e-85bcbc9a7de2"
+            ]
+        },
+        {
+            "id": 1508,
+            "title": "Correct Process Flow",
+            "description": "The process flow of the credit request from the Loan Applicant to the Credit Institute is accurately represented. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": [
+                "9ae7e0a5-22ec-4266-857e-917e6c64372d",
+                "fc63f3e5-68f8-407b-afe0-d4bd9d3ff818"
+            ]
+        },
+        {
+            "id": 1509,
+            "title": "Correct Use of Gateways",
+            "description": "You correctly used the exclusive gateway to represent the decision point for standard terms applicability and the parallel gateway for concurrent tasks. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": [
+                "660224ad-2abd-4753-bdea-bcb910961926",
+                "f34be95a-5705-435e-9a1e-ef3d6274be4c",
+                "43a70d45-3500-4ca2-8117-adf6743ed6b7"
+            ]
+        },
+        {
+            "id": 1510,
+            "title": "Correct Task Representation",
+            "description": "The tasks in the process are correctly represented and named. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": [
+                "9ae7e0a5-22ec-4266-857e-917e6c64372d",
+                "de05589f-4a04-4532-8fdb-0429dbb3a159",
+                "8da77b6f-d6f1-432f-891a-3dc99072c039",
+                "209028c0-d870-45ca-a523-f2c69d648232",
+                "8db24af9-3735-44a1-8d86-f7d24fbdecc5",
+                "3f0587e9-43d3-472c-8aa6-13c4b1f6093b",
+                "c7177da5-7bb8-4077-bb96-833206ad83a2",
+                "67202efa-d434-40ac-9cc5-4032578d1cf5"
+            ]
+        },
+        {
+            "id": 1511,
+            "title": "Correct Message Flow",
+            "description": "The message flow between the Loan Applicant and the Credit Institute is accurately represented. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": [
+                "618c2cbf-5945-4c0b-865e-a60c287235b1",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        },
+        {
+            "id": 1512,
+            "title": "Correct End Events",
+            "description": "The end events for both the Loan Applicant and the Credit Institute are correctly represented. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": [
+                "e186f8e1-5a2e-4331-8fbd-56a2d752f9d9",
+                "b7fc3a39-b634-4b43-84a8-7532361b72cb"
+            ]
+        },
+        {
+            "id": 1513,
+            "title": "Incorrect Sequence Flow",
+            "description": "There seems to be an error in the sequence flow. The flow from 'id-6' to 'id-4' is not required and does not match the problem statement. Please revise this part.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": [
+                "e3f711ef-bf9c-4164-b42b-febce0865d8e"
+            ]
+        },
+        {
+            "id": 1514,
+            "title": "Incorrect Task Representation",
+            "description": "The task 'id-6' is incorrectly represented as an end event. Please revise this part.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": [
+                "ae09e0a5-478e-4a43-b75f-14108103f9bb"
+            ]
+        },
+        {
+            "id": 1515,
+            "title": "Correct Start Event",
+            "description": "The start event 'Credit request received' is correctly represented. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": [
+                "fc63f3e5-68f8-407b-afe0-d4bd9d3ff818"
+            ]
+        },
+        {
+            "id": 1516,
+            "title": "Correct Intermediate Catch Event",
+            "description": "The intermediate catch event 'Quote received' is correctly represented. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": [
+                "ae09e0a5-478e-4a43-b75f-14108103f9bb"
+            ]
+        }
+    ],
+    "meta": {}
+}

@@ -1,0 +1,83 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1440,
+            "title": "Correct Collaboration Participants",
+            "description": "You correctly identified the two collaboration participants: 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 14,
+            "elementIds": [
+                "ca590420-9f27-4dad-a166-f67f50ecc3c9",
+                "105a6287-172e-4a9f-8949-98a4fd1b0820"
+            ]
+        },
+        {
+            "id": 1441,
+            "title": "Correct Process Flow",
+            "description": "The process flow in your model is mostly correct. However, there are some issues with the sequence flow. For example, the sequence flow with id-42 is duplicated, which is not allowed in BPMN. Please revise this.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 14,
+            "elementIds": [
+                "ca590420-9f27-4dad-a166-f67f50ecc3c9"
+            ]
+        },
+        {
+            "id": 1442,
+            "title": "Correct Use of Gateways",
+            "description": "You have correctly used the parallel and exclusive gateways in your model. This shows a good understanding of the different types of gateways and their usage in BPMN.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 14,
+            "elementIds": [
+                "bcc7ceeb-10fb-40cc-9500-012c5766c7d8",
+                "afcc3c07-57fe-497b-b403-18cb03a8a8fd",
+                "52ff04ed-eb5d-4e64-85ee-1d279c0d4019",
+                "25f61ed7-c20a-4ea6-8651-6f23669abe02"
+            ]
+        },
+        {
+            "id": 1443,
+            "title": "Correct Use of Events",
+            "description": "You have correctly used start, end, and intermediate events in your model. However, the end event with id-6 in the 'Loan Applicant' process is not connected to any other element, which is not correct. Please revise this.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 14,
+            "elementIds": [
+                "cf1a2d4f-5c31-4f61-9ead-5e270a552120"
+            ]
+        },
+        {
+            "id": 1444,
+            "title": "Correct Use of Tasks",
+            "description": "You have correctly used tasks in your model. The tasks accurately represent the actions that need to be performed in the process. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 14,
+            "elementIds": [
+                "132676f9-b357-4d0e-a602-eb4fbe3c330c",
+                "a6e7f926-9597-41ab-be80-10886fc870d2",
+                "af74d1bb-ece2-46d1-9fa5-ac4223f2a46f",
+                "bf2edcbd-50f5-47ad-8d32-e1010ebb507c",
+                "5ca19430-5970-4caf-9105-cee9ab93d3f4",
+                "f1b20b00-bcb0-443f-8afc-aee610535973",
+                "c92998f0-54d8-4880-9608-56ef2f614bc0",
+                "c823b72f-40c4-47df-b2e6-399e41b69648"
+            ]
+        }
+    ],
+    "meta": {}
+}

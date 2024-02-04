@@ -1,0 +1,166 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1426,
+            "title": "Correct Collaboration Participants",
+            "description": "You correctly identified the two collaboration participants as 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": [
+                "b571ccea-2faa-44b0-aca1-46583ce540e9",
+                "53fd7729-385f-48a4-8ae6-73dcbc57b446"
+            ]
+        },
+        {
+            "id": 1427,
+            "title": "Correct Process Flow",
+            "description": "The process flow of the credit request from the Loan Applicant to the Credit Institute is accurately represented. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": [
+                "41e8f4a9-97b7-49be-91a1-bed2e629eb36",
+                "f04f22d9-78e6-4b8f-9c04-aa179079d2c0",
+                "aa107605-c72d-4059-a611-498de54cd5b1"
+            ]
+        },
+        {
+            "id": 1428,
+            "title": "Correct Task Representation",
+            "description": "You have correctly represented the tasks involved in the process such as 'Send credit request', 'Review request', 'Assess risk', 'Calculate terms', 'Prepare special terms', 'Prepare contract', and 'Send quote'. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": [
+                "41e8f4a9-97b7-49be-91a1-bed2e629eb36",
+                "05509ef9-0f0c-477d-8a7a-53acadeea016",
+                "20b22111-7325-49a6-accd-afef074b0ebb",
+                "03217aa3-df43-4c0a-bc6a-6817028e46ec",
+                "d79308d8-c61b-4955-907f-171438a8fd16",
+                "1acdb6c5-27b3-4414-b690-5296d7764d8f",
+                "75a87587-d922-4698-aae2-2727e9273da3"
+            ]
+        },
+        {
+            "id": 1429,
+            "title": "Correct Use of Gateways",
+            "description": "You have correctly used the exclusive and parallel gateways to represent decision points and concurrent tasks in the process. Excellent work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": [
+                "3922fd83-2872-4919-98ca-31d75c7bb73f",
+                "bad8ea92-1ef2-4434-8576-2cffe7c694ef",
+                "b3fe79d0-9563-44e3-928e-aa45c21de8ae",
+                "febeb4bf-c2b9-4350-8125-5de5b75f7318"
+            ]
+        },
+        {
+            "id": 1430,
+            "title": "Correct End Events",
+            "description": "You have correctly represented the end events for both the Loan Applicant and the Credit Institute. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": [
+                "8a753623-fe96-4597-88d4-3f72a9c45ffb",
+                "38aa8585-66e2-4556-81c6-239a183b8013"
+            ]
+        },
+        {
+            "id": 1431,
+            "title": "Correct Message Flow",
+            "description": "The message flow between the Loan Applicant and the Credit Institute is accurately represented. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": [
+                "aa107605-c72d-4059-a611-498de54cd5b1",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        },
+        {
+            "id": 1432,
+            "title": "Correct Sequence Flow",
+            "description": "The sequence flow within the processes of the Loan Applicant and the Credit Institute is accurately represented. Excellent work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": [
+                "88993293-d6c6-41d0-8eef-106c4eb3dc89",
+                "a8a8e227-563a-4207-b79b-87067bf29b59",
+                "aff90906-1e44-4980-a0f2-00163e6eebe5",
+                "23d76777-ee61-496e-92c7-6bbd120b20f1",
+                "1e638a92-466c-4491-b85a-e80267cff545",
+                "66fe2424-b0cc-4e50-988c-f0910dd92aa6",
+                "8263561f-d70e-4264-8e6e-6d545c9d4d57",
+                "2c669dc1-ec78-4ce9-af27-6fd58b5f4e17",
+                "3eae3c61-5acf-4687-95d0-c5e16bb689b2",
+                "c09d469a-0377-47f1-a2b5-6662f2afc0b1",
+                "a72d62b3-e113-4b90-bfd9-2480861d1186",
+                "70b979b6-32e9-45c7-be45-518507652a30",
+                "c6ac591f-51fd-4c6e-bdfa-ae74a029d73d",
+                "60e891d4-0604-45e4-b2c7-b6d6b9f72ba2",
+                "2bcae199-700f-44b9-93e1-2dacb6061bd8",
+                "b409934a-f4ad-4bcb-a157-4457c97e17fb"
+            ]
+        },
+        {
+            "id": 1433,
+            "title": "Correct Intermediate Catch Event",
+            "description": "You have correctly used an intermediate catch event to represent the Loan Applicant receiving the quote. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": [
+                "a8193e91-4a9d-46f6-8c38-4830eba5a694"
+            ]
+        },
+        {
+            "id": 1434,
+            "title": "Correct Start Event",
+            "description": "You have correctly represented the start event of the Credit Institute receiving the credit request. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": [
+                "f04f22d9-78e6-4b8f-9c04-aa179079d2c0"
+            ]
+        },
+        {
+            "id": 1435,
+            "title": "Correct Review of Quote",
+            "description": "You have correctly represented the Loan Applicant's task of reviewing the quote. Excellent work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": [
+                "f30367af-48ec-4450-a557-0e8e10281718"
+            ]
+        }
+    ],
+    "meta": {}
+}

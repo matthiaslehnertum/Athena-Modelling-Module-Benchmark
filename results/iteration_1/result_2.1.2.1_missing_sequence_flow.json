@@ -1,0 +1,180 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1489,
+            "title": "Correct Collaboration Participants",
+            "description": "You correctly identified the two collaboration participants as 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": [
+                "71dd8a84-daa7-4c81-a5c1-a35f6d28c149",
+                "5fdfcdd3-c05e-4372-98ed-7566b302334c"
+            ]
+        },
+        {
+            "id": 1490,
+            "title": "Correct Process Flow",
+            "description": "The process flow in your model is correct and matches the problem statement. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": [
+                "1747e10f-84e7-44c7-92dc-1007a352609a",
+                "aff90906-1e44-4980-a0f2-00163e6eebe5",
+                "23d76777-ee61-496e-92c7-6bbd120b20f1",
+                "1e638a92-466c-4491-b85a-e80267cff545",
+                "66fe2424-b0cc-4e50-988c-f0910dd92aa6",
+                "8263561f-d70e-4264-8e6e-6d545c9d4d57",
+                "2c669dc1-ec78-4ce9-af27-6fd58b5f4e17",
+                "3eae3c61-5acf-4687-95d0-c5e16bb689b2",
+                "c09d469a-0377-47f1-a2b5-6662f2afc0b1",
+                "a72d62b3-e113-4b90-bfd9-2480861d1186",
+                "70b979b6-32e9-45c7-be45-518507652a30",
+                "c6ac591f-51fd-4c6e-bdfa-ae74a029d73d",
+                "60e891d4-0604-45e4-b2c7-b6d6b9f72ba2",
+                "2bcae199-700f-44b9-93e1-2dacb6061bd8",
+                "b409934a-f4ad-4bcb-a157-4457c97e17fb"
+            ]
+        },
+        {
+            "id": 1491,
+            "title": "Correct Use of Gateways",
+            "description": "You correctly used the exclusive and parallel gateways in your model. This shows a good understanding of BPMN 2.0.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": [
+                "4ecd52ae-652e-400d-8205-325e33b98cd9",
+                "80f2b32a-892e-41d8-adac-98832230e04e",
+                "dc2243b3-515c-4895-a010-d07f4b95c3fe",
+                "f8915c4c-0788-44c7-b79c-1bfc7a54c3be"
+            ]
+        },
+        {
+            "id": 1492,
+            "title": "Correct Use of Tasks",
+            "description": "The tasks in your model are correctly used and named. They accurately represent the actions described in the problem statement.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": [
+                "efb0113c-c9a9-4122-9e4e-03c90d937882",
+                "ba3275b0-2541-46b8-8f0b-f5fcdd421899",
+                "1534433e-2706-43c3-bdd2-ea05f7512aad",
+                "7ce8e419-d27c-43e6-848c-dc8a5e49248c",
+                "4fa635c3-d413-43f9-b126-cf1f176dc3ac",
+                "b458f638-381e-4ff8-8f1c-415513df3f45",
+                "5a0f5e61-6bf3-45e6-98dd-b43fb255027e",
+                "4b56bfaf-bd5c-4e3e-92bf-a97868bb9389"
+            ]
+        },
+        {
+            "id": 1493,
+            "title": "Correct Use of Events",
+            "description": "You correctly used start, intermediate, and end events in your model. This is a key aspect of BPMN 2.0.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": [
+                "9ba1e39f-2e43-4531-a792-d83ef3a8f65e",
+                "6557e203-c5e3-43f8-a5fd-01a4541bc5f1",
+                "2278f7bc-0e49-48b9-9d5d-95b969da93ac",
+                "9a210f5c-b98a-4c77-94b4-24481cb508e7"
+            ]
+        },
+        {
+            "id": 1494,
+            "title": "Correct Use of Message Flows",
+            "description": "The message flows in your model are correctly used and connect the right elements. This shows a good understanding of inter-process communication.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": [
+                "f6ee81ef-c6f5-401b-a877-3f545c4b1e9b",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        },
+        {
+            "id": 1495,
+            "title": "Correct Use of Sequence Flows",
+            "description": "The sequence flows in your model are correctly used and connect the right elements. This shows a good understanding of intra-process communication.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": [
+                "1747e10f-84e7-44c7-92dc-1007a352609a",
+                "aff90906-1e44-4980-a0f2-00163e6eebe5",
+                "23d76777-ee61-496e-92c7-6bbd120b20f1",
+                "1e638a92-466c-4491-b85a-e80267cff545",
+                "66fe2424-b0cc-4e50-988c-f0910dd92aa6",
+                "8263561f-d70e-4264-8e6e-6d545c9d4d57",
+                "2c669dc1-ec78-4ce9-af27-6fd58b5f4e17",
+                "3eae3c61-5acf-4687-95d0-c5e16bb689b2",
+                "c09d469a-0377-47f1-a2b5-6662f2afc0b1",
+                "a72d62b3-e113-4b90-bfd9-2480861d1186",
+                "70b979b6-32e9-45c7-be45-518507652a30",
+                "c6ac591f-51fd-4c6e-bdfa-ae74a029d73d",
+                "60e891d4-0604-45e4-b2c7-b6d6b9f72ba2",
+                "2bcae199-700f-44b9-93e1-2dacb6061bd8",
+                "b409934a-f4ad-4bcb-a157-4457c97e17fb"
+            ]
+        },
+        {
+            "id": 1496,
+            "title": "Correct Use of Lanes",
+            "description": "You correctly used lanes to represent the different roles within the 'Credit Institute'. This is a good practice in BPMN 2.0.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": [
+                "d7f33974-3bcf-4102-b1af-cc79bb49b54d",
+                "1747e10f-84e7-44c7-92dc-1007a352609a"
+            ]
+        },
+        {
+            "id": 1497,
+            "title": "Correct Use of Message Event Definitions",
+            "description": "You correctly used message event definitions in your model. This shows a good understanding of BPMN 2.0.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": [
+                "f16073cb-cf6c-4810-becd-63f8f75d7d29",
+                "6de57656-8a72-4674-96e6-760c8d98ec50"
+            ]
+        },
+        {
+            "id": 1498,
+            "title": "Overall Quality",
+            "description": "Overall, your model is of high quality. It is clear, concise, and accurately represents the problem statement. Keep up the good work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": []
+        }
+    ],
+    "meta": {}
+}

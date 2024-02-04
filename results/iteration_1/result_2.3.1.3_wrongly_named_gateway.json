@@ -1,0 +1,152 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1547,
+            "title": "Correct Collaboration Partners",
+            "description": "You correctly identified the collaboration partners as 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "78e7e2c8-574b-43d0-9aee-dbd4d492aece",
+                "e799d241-005c-451a-940c-68f5a2ff1827"
+            ]
+        },
+        {
+            "id": 1548,
+            "title": "Correct Process Flow",
+            "description": "The process flow is mostly correct. However, the name of the exclusive gateway 'Weather is sunny?' is not relevant to the problem statement. Please revise this.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "edacf0e0-090c-4739-aa5f-2bd9cb9696cf"
+            ]
+        },
+        {
+            "id": 1549,
+            "title": "Correct Tasks",
+            "description": "You correctly identified and named all the tasks in the process. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "63cb24aa-bb2d-4432-93ca-2a2c6a3cef5f",
+                "d8590228-b386-4541-9a5a-ccdaf47ba5b2",
+                "cef20076-a0ac-4635-a749-2a4d5e70e9a5",
+                "508a5d91-fb09-4902-85c7-de3e39c04c51",
+                "ad459ffa-204d-4a8e-8468-850e626115ed",
+                "203bf9d2-39a9-4127-801a-17d6d71f09e6",
+                "40c042d2-606f-4395-8a2a-46e6e930ddde",
+                "f4da0a5b-4adb-49a2-a5de-02ebcd860887"
+            ]
+        },
+        {
+            "id": 1550,
+            "title": "Correct Message Flows",
+            "description": "The message flows between the Loan Applicant and the Credit Institute are correctly modeled. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "e799d241-005c-451a-940c-68f5a2ff1827",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        },
+        {
+            "id": 1551,
+            "title": "Correct End Events",
+            "description": "The end events are correctly modeled. However, the end event 'id-6' in the Loan Applicant process is not connected to any task. Please revise this.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "8b65a39e-abd5-4f35-bc18-76ce41f51e19",
+                "d7463306-bc63-4499-bec4-0edd98a7676e",
+                "3cb84379-01a5-43bf-9555-b14048252e4a"
+            ]
+        },
+        {
+            "id": 1552,
+            "title": "Correct Start Events",
+            "description": "The start event 'Credit request received' is correctly modeled. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "ab4ed374-4e4b-4017-ae42-8f660f712102"
+            ]
+        },
+        {
+            "id": 1553,
+            "title": "Correct Gateways",
+            "description": "The parallel and exclusive gateways are correctly modeled. However, the name of the exclusive gateway 'Weather is sunny?' is not relevant to the problem statement. Please revise this.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "59e49dfe-78bf-4c71-8e87-8fe8a54efee0",
+                "edacf0e0-090c-4739-aa5f-2bd9cb9696cf",
+                "0b66348f-0aaa-4c8a-ad38-51038d5fdffe",
+                "ef1e9010-834c-4967-8bc8-f30cab04a630"
+            ]
+        },
+        {
+            "id": 1554,
+            "title": "Correct Sequence Flows",
+            "description": "The sequence flows are mostly correct. However, the sequence flow 'id-42' in the Loan Applicant process is not connected to any task. Please revise this.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "78e7e2c8-574b-43d0-9aee-dbd4d492aece"
+            ]
+        },
+        {
+            "id": 1555,
+            "title": "Correct Intermediate Catch Event",
+            "description": "The intermediate catch event 'Quote received' is correctly modeled. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "d7463306-bc63-4499-bec4-0edd98a7676e"
+            ]
+        },
+        {
+            "id": 1556,
+            "title": "Correct Lane Sets",
+            "description": "The lane sets 'Loan Applicant' and 'Credit Institute' are correctly modeled. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "9046c1d6-0981-4b6a-9238-8b2bf9ba8885",
+                "1add2a9d-e72f-440e-8cd5-b756f00c620b"
+            ]
+        }
+    ],
+    "meta": {}
+}

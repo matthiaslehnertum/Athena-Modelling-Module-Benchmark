@@ -1,0 +1,101 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1368,
+            "title": "Correct Collaboration Participants",
+            "description": "You correctly identified the two collaboration participants as 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": [
+                "285f2ea5-3054-4991-9da8-f8f40a1dc378",
+                "5d8048b4-f69a-4e97-a0eb-27ecbbdea5ba"
+            ]
+        },
+        {
+            "id": 1369,
+            "title": "Correct Process Flow",
+            "description": "The process flow within the 'Credit Institute' is correctly modeled. The tasks are in the right order and the gateways are used appropriately.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": [
+                "9d6c3489-f498-48fb-8126-40baf849bf1a",
+                "00faf287-5bff-4dfb-af44-20cf8630a469",
+                "4ec6e0fd-8946-4c65-8f7c-5e59de421642",
+                "fc21fcb4-106e-4bf2-9357-5400691fec8a",
+                "d9068f71-8fa0-4a63-acf3-daae56dc67fe",
+                "d7d92e53-48d2-4a0f-9d55-a423ea09886a",
+                "5abdf461-e481-42db-926f-272d886df5f2",
+                "784a4da5-bf26-4539-8f38-f5418f87ce60",
+                "0c281095-14c0-40cb-9038-3ddcaa162489",
+                "acd05e15-ee05-4100-aa6c-d4e6055d78de",
+                "3e5acbc9-20f8-48fc-828d-c030eb8ffa0a",
+                "d3c3d3a5-fe14-469a-8bd8-e04e08eee301"
+            ]
+        },
+        {
+            "id": 1370,
+            "title": "Correct Use of Message Flows",
+            "description": "The message flows between 'Loan Applicant' and 'Credit Institute' are correctly modeled. The credit request and quote are correctly sent and received.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": [
+                "aec45998-06bb-4213-a615-8e512c05a855",
+                "285f2ea5-3054-4991-9da8-f8f40a1dc378"
+            ]
+        },
+        {
+            "id": 1371,
+            "title": "Correct Process Flow for Loan Applicant",
+            "description": "The process flow within the 'Loan Applicant' is correctly modeled. The tasks are in the right order.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": [
+                "442a0948-478d-4960-b299-79aa03a08805",
+                "e8cb33f3-193a-4dc0-921c-dd9686caab24",
+                "68d7cee4-010c-4c68-bf0a-41962230ed53",
+                "77f3ad1e-075b-43ca-97e8-884af82eccea"
+            ]
+        },
+        {
+            "id": 1372,
+            "title": "Incorrect Use of Data Object",
+            "description": "The data object 'Send credit request' is incorrectly used. In BPMN, data objects represent data required or produced by activities. They do not represent actions or tasks. Consider replacing this with a task or message event.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": [
+                "e8cb33f3-193a-4dc0-921c-dd9686caab24"
+            ]
+        },
+        {
+            "id": 1373,
+            "title": "Incorrect Sequence Flow",
+            "description": "The sequence flow 'id-40' is incorrectly modeled. It loops from 'id-6' back to 'id-6', which doesn't make sense in the context of the process. Please review and correct this.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": [
+                "e7a147c5-0ba6-4496-944e-511287e66bad"
+            ]
+        }
+    ],
+    "meta": {}
+}

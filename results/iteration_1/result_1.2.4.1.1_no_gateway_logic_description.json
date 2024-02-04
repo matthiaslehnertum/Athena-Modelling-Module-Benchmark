@@ -1,0 +1,163 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1416,
+            "title": "Correct Collaboration",
+            "description": "You correctly identified the two collaboration partners, 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 11,
+            "elementIds": [
+                "7b6fe488-9e6b-4a6a-bfd3-b32b2573fe69",
+                "603a98ad-01dd-4196-8583-a3e14c279d74"
+            ]
+        },
+        {
+            "id": 1417,
+            "title": "Correct Process Flow",
+            "description": "The process flow within the 'Credit Institute' is correctly modeled. The tasks are in the right order and the gateways are used appropriately.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 11,
+            "elementIds": [
+                "019ff274-80c2-4183-b3d7-173a4d956862",
+                "0a8a8fb1-7259-4133-a6a7-625b852b6568",
+                "5e95e88e-d021-4728-9bb7-3670c50e878e",
+                "7b63f386-19a1-42ef-83fe-bb7fd0297d95",
+                "5d2dbff7-141c-426b-b42d-eb29e6260474",
+                "c6f3b198-61ff-4112-b330-1849dd896e55",
+                "bfcbb420-7c55-47e2-9d29-e0e48c5b24a8",
+                "e4422481-dfa7-49e2-ac9f-290def8f90d7",
+                "85bf3917-1bbd-4c31-ad90-a099d5270546",
+                "4fa35990-1fd7-42eb-98b5-5d74363e1a8b"
+            ]
+        },
+        {
+            "id": 1418,
+            "title": "Correct Message Flow",
+            "description": "The message flow between 'Loan Applicant' and 'Credit Institute' is correctly modeled. The credit request and quote are correctly sent and received.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 11,
+            "elementIds": [
+                "603a98ad-01dd-4196-8583-a3e14c279d74",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        },
+        {
+            "id": 1419,
+            "title": "Correct Use of Events",
+            "description": "You correctly used start, intermediate and end events in your model. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 11,
+            "elementIds": [
+                "c2722492-a3a8-485a-bb7f-2ed7740bcb26",
+                "26539af5-be93-49f3-be41-dd81c13e2a60",
+                "24cf6c6a-0a78-4ce9-85ca-d9cc53dc0633",
+                "b72efa93-849d-4ae6-8e8d-51d4f04544e1"
+            ]
+        },
+        {
+            "id": 1420,
+            "title": "Correct Use of Tasks",
+            "description": "The tasks in your model are correctly used and named. They accurately represent the actions taken by the 'Loan Applicant' and 'Credit Institute'.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 11,
+            "elementIds": [
+                "d4dacd1c-cf76-4628-963d-edef1ce717f4",
+                "41c342c8-7973-4c1c-a5fb-7cd2a13ebb2a",
+                "019ff274-80c2-4183-b3d7-173a4d956862",
+                "0a8a8fb1-7259-4133-a6a7-625b852b6568",
+                "5e95e88e-d021-4728-9bb7-3670c50e878e",
+                "7b63f386-19a1-42ef-83fe-bb7fd0297d95",
+                "5d2dbff7-141c-426b-b42d-eb29e6260474",
+                "c6f3b198-61ff-4112-b330-1849dd896e55"
+            ]
+        },
+        {
+            "id": 1421,
+            "title": "Incorrect Sequence Flow",
+            "description": "There is an incorrect sequence flow from 'Quote received' to 'Send credit request'. Please review this part of your model.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 11,
+            "elementIds": [
+                "7b6fe488-9e6b-4a6a-bfd3-b32b2573fe69"
+            ]
+        },
+        {
+            "id": 1422,
+            "title": "Incorrect Use of End Event",
+            "description": "There is an incorrect use of an end event in the 'Loan Applicant' process. Please review this part of your model.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 11,
+            "elementIds": [
+                "26539af5-be93-49f3-be41-dd81c13e2a60"
+            ]
+        },
+        {
+            "id": 1423,
+            "title": "Correct Use of Gateways",
+            "description": "The exclusive and parallel gateways in your model are correctly used. They accurately represent the decision points and concurrent tasks in the process.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 11,
+            "elementIds": [
+                "bfcbb420-7c55-47e2-9d29-e0e48c5b24a8",
+                "e4422481-dfa7-49e2-ac9f-290def8f90d7",
+                "85bf3917-1bbd-4c31-ad90-a099d5270546",
+                "4fa35990-1fd7-42eb-98b5-5d74363e1a8b"
+            ]
+        },
+        {
+            "id": 1424,
+            "title": "Correct Use of Lanes",
+            "description": "The lanes in your model are correctly used. They accurately represent the different roles in the process.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 11,
+            "elementIds": [
+                "238fa6ff-7ab7-4fad-9cd2-3f60c017c928",
+                "191a456a-e20c-4017-af45-62aaa914704c"
+            ]
+        },
+        {
+            "id": 1425,
+            "title": "Correct Use of Message Event Definitions",
+            "description": "The message event definitions in your model are correctly used. They accurately represent the messages exchanged in the process.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 11,
+            "elementIds": [
+                "7a37499e-893b-437a-9692-c2eb93ae43c2",
+                "80a7f435-231e-4895-867b-6d0f1253d665"
+            ]
+        }
+    ],
+    "meta": {}
+}

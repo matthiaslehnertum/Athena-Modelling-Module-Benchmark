@@ -1,0 +1,94 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1537,
+            "title": "Correct Process Flow",
+            "description": "You have correctly modeled the process flow for both the Loan Applicant and the Credit Institute. The sequence of tasks and events aligns well with the problem statement.",
+            "credits": 6.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 27,
+            "elementIds": [
+                "84911215-4159-421f-b9e7-2254127e69d8",
+                "cb813497-b25f-44bc-b02f-e317a891315d",
+                "0277da41-d31a-4f46-acb4-5caffdd182f0",
+                "f5ccdbb1-5e04-41e6-9b6d-163dbe0c7e45",
+                "55d2c09a-8cd8-4b8e-971b-ace116e28087",
+                "b4f4f39d-a9a3-4f14-bbad-36ce066b7ae3",
+                "9dc9459d-5c24-493f-97f6-d4093ca9b635",
+                "945276f0-d45f-4a0d-834e-be140667b0b3",
+                "98feac55-6ff2-4a2d-a308-a46d012dafab",
+                "946e14f4-18a2-4b7f-b5ab-c14b8745edcc",
+                "2dc1fedb-3a6c-4021-9b96-a0cbe79ba333",
+                "70cd312d-5c3f-42a9-b987-cc70acf51adc",
+                "b4b88709-3282-46d6-ba27-62586d6a2f5b",
+                "dc4aed5a-10bf-476f-b076-c65914eee1d2",
+                "b9c32691-e0ca-4022-96ca-02bd8915ab04",
+                "5e900df6-61f6-4126-b555-8748a2e80198"
+            ]
+        },
+        {
+            "id": 1538,
+            "title": "Incorrect Task",
+            "description": "The task 'Look outside the window' is not part of the problem statement. Please ensure that all tasks align with the problem statement.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 27,
+            "elementIds": [
+                "55d2c09a-8cd8-4b8e-971b-ace116e28087"
+            ]
+        },
+        {
+            "id": 1539,
+            "title": "Correct Use of Gateways",
+            "description": "You have correctly used the Exclusive and Parallel Gateways to model decision points and concurrent tasks. This is in line with the problem statement.",
+            "credits": 2.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 27,
+            "elementIds": [
+                "70cd312d-5c3f-42a9-b987-cc70acf51adc",
+                "b4b88709-3282-46d6-ba27-62586d6a2f5b",
+                "dc4aed5a-10bf-476f-b076-c65914eee1d2",
+                "b9c32691-e0ca-4022-96ca-02bd8915ab04"
+            ]
+        },
+        {
+            "id": 1540,
+            "title": "Correct Use of Events",
+            "description": "You have correctly used Start, Intermediate Catch, and End Events to model the start, intermediate, and end points of the processes. This is in line with the problem statement.",
+            "credits": 2.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 27,
+            "elementIds": [
+                "2dc1fedb-3a6c-4021-9b96-a0cbe79ba333",
+                "0277da41-d31a-4f46-acb4-5caffdd182f0",
+                "f5ccdbb1-5e04-41e6-9b6d-163dbe0c7e45",
+                "5e900df6-61f6-4126-b555-8748a2e80198"
+            ]
+        },
+        {
+            "id": 1541,
+            "title": "Correct Use of Message Flows",
+            "description": "You have correctly used Message Flows to model the communication between the Loan Applicant and the Credit Institute. This is in line with the problem statement.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 27,
+            "elementIds": [
+                "7def56df-7a9b-48ca-ade2-6ba30348ab54",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        }
+    ],
+    "meta": {}
+}

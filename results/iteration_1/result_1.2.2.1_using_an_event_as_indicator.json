@@ -1,0 +1,74 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1374,
+            "title": "Correct Process Flow",
+            "description": "You have correctly modeled the process flow for both the Loan Applicant and the Credit Institute. The tasks are well-arranged and the sequence flows are correctly linked.",
+            "credits": 5.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 5,
+            "elementIds": [
+                "9ed9a98f-7e3d-47ed-97c6-8d4cba767354",
+                "b240b6de-6758-4202-9ae4-bbc7885d9d6a",
+                "78e73f5f-2a18-4934-a8ea-7eccb30eddb0",
+                "62fb1280-232a-4435-83e4-a25a16facaee",
+                "f477dd28-6974-4b44-9693-6a5e0f52cd2d",
+                "67a02a0e-e63e-430e-a5b0-e42854f3cee2",
+                "6b01c29f-77da-4f00-95b2-d8ce42e6d1a8",
+                "6b7536b9-6655-4704-b1ae-47f9eda6f887",
+                "fc43f605-e4cd-4f8a-a54c-05c4ffd1b4d0",
+                "149efcf7-c415-4750-9dd7-6e67ec03cf8e"
+            ]
+        },
+        {
+            "id": 1375,
+            "title": "Correct Use of Gateways",
+            "description": "You have correctly used the exclusive and parallel gateways in the Credit Institute process. This accurately represents the decision-making and concurrent tasks in the process.",
+            "credits": 2.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 5,
+            "elementIds": [
+                "98f7400f-3f79-4020-bebf-3297f4769f75",
+                "e7d0d393-39fb-484b-8039-3d1f86b1ba7c",
+                "430deb6f-c940-42cc-b271-3391e9c3c104"
+            ]
+        },
+        {
+            "id": 1376,
+            "title": "Correct Use of Events",
+            "description": "You have correctly used start, intermediate, and end events in your model. This accurately represents the start, progression, and end of the processes.",
+            "credits": 2.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 5,
+            "elementIds": [
+                "be238e69-5e11-4e8c-9834-1aeddcfd293d",
+                "78e73f5f-2a18-4934-a8ea-7eccb30eddb0",
+                "62fb1280-232a-4435-83e4-a25a16facaee",
+                "c67f0a5d-0973-4b3d-8a02-f919eb876cf6"
+            ]
+        },
+        {
+            "id": 1377,
+            "title": "Correct Use of Message Flows",
+            "description": "You have correctly used message flows to represent the communication between the Loan Applicant and the Credit Institute. This accurately represents the interaction between the two entities.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 5,
+            "elementIds": [
+                "790e1034-f269-4c65-8f12-298bfc865ef5",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        }
+    ],
+    "meta": {}
+}

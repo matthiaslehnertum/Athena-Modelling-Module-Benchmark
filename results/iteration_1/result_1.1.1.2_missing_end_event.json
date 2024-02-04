@@ -1,0 +1,178 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1358,
+            "title": "Correct Collaboration Partners",
+            "description": "You correctly identified the collaboration partners as 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 3,
+            "elementIds": [
+                "fb5505a1-7950-4eda-b2ab-f13328eeb276",
+                "2c75218c-7427-4ff4-b669-8b7a85208a4d"
+            ]
+        },
+        {
+            "id": 1359,
+            "title": "Correct Process Flow",
+            "description": "The process flow of the credit request from the Loan Applicant to the Credit Institute is accurately represented. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 3,
+            "elementIds": [
+                "85689b0d-98a4-4f22-b12d-fdc24fd08056",
+                "476584a0-da6b-4f56-864d-e3148cc03f32",
+                "6c134fc8-c3bb-4a6e-bf23-a0b33a47a09f",
+                "678caeea-b075-46cf-bf2b-7f6895bf637f",
+                "b85bcd6b-8a4d-4df6-88b7-6f0e96f54dec",
+                "84e68ae1-2b0d-4daa-9dea-ae301399002e",
+                "8557563e-205c-4e5d-a2b4-302c1447c6d7",
+                "6576d9bc-fd7b-4287-9c1a-7b3c75437a2c",
+                "beae5e29-adc6-494d-974c-d2852420a882",
+                "99bfc542-ddc0-4f62-96bf-5933342c85cf",
+                "fb5505a1-7950-4eda-b2ab-f13328eeb276",
+                "6d41ec07-8af8-4bf5-9cf4-f8333b8a81fe",
+                "db35e730-4e92-40df-8db2-6f377450d48b"
+            ]
+        },
+        {
+            "id": 1360,
+            "title": "Correct Use of Gateways",
+            "description": "You have correctly used the parallel and exclusive gateways to represent concurrent and decision-based tasks respectively. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 3,
+            "elementIds": [
+                "8557563e-205c-4e5d-a2b4-302c1447c6d7",
+                "6576d9bc-fd7b-4287-9c1a-7b3c75437a2c",
+                "b55cb009-5392-4ae3-a444-5a332036f444",
+                "6d41ec07-8af8-4bf5-9cf4-f8333b8a81fe"
+            ]
+        },
+        {
+            "id": 1361,
+            "title": "Correct Message Flows",
+            "description": "The message flows between the Loan Applicant and the Credit Institute are correctly represented. Good work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 3,
+            "elementIds": [
+                "f01b70d8-f42f-42bf-a7d6-ce838c9deddd",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        },
+        {
+            "id": 1362,
+            "title": "Correct Task Representation",
+            "description": "All tasks are correctly represented and named according to the problem statement. Excellent!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 3,
+            "elementIds": [
+                "476584a0-da6b-4f56-864d-e3148cc03f32",
+                "678caeea-b075-46cf-bf2b-7f6895bf637f",
+                "16eed1da-e99d-4433-b947-b0570ca3c11d",
+                "84e68ae1-2b0d-4daa-9dea-ae301399002e",
+                "beae5e29-adc6-494d-974c-d2852420a882",
+                "db35e730-4e92-40df-8db2-6f377450d48b",
+                "99bfc542-ddc0-4f62-96bf-5933342c85cf",
+                "fb5505a1-7950-4eda-b2ab-f13328eeb276"
+            ]
+        },
+        {
+            "id": 1363,
+            "title": "Correct Sequence Flows",
+            "description": "The sequence flows between tasks, events, and gateways are correctly represented. Great job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 3,
+            "elementIds": [
+                "7d315946-04e9-457b-a839-1470948787c5",
+                "2c75218c-7427-4ff4-b669-8b7a85208a4d",
+                "ce29f19a-8ff0-4f02-8393-0732c441478f",
+                "1e26dbbb-7fa5-4d61-82e3-07eee33d99cd",
+                "23d76777-ee61-496e-92c7-6bbd120b20f1",
+                "1e638a92-466c-4491-b85a-e80267cff545",
+                "66fe2424-b0cc-4e50-988c-f0910dd92aa6",
+                "8263561f-d70e-4264-8e6e-6d545c9d4d57",
+                "2c669dc1-ec78-4ce9-af27-6fd58b5f4e17",
+                "3eae3c61-5acf-4687-95d0-c5e16bb689b2",
+                "c09d469a-0377-47f1-a2b5-6662f2afc0b1",
+                "70b979b6-32e9-45c7-be45-518507652a30",
+                "c6ac591f-51fd-4c6e-bdfa-ae74a029d73d",
+                "60e891d4-0604-45e4-b2c7-b6d6b9f72ba2",
+                "b409934a-f4ad-4bcb-a157-4457c97e17fb"
+            ]
+        },
+        {
+            "id": 1364,
+            "title": "Correct Start and End Events",
+            "description": "The start and end events for both the Loan Applicant and the Credit Institute are correctly represented. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 3,
+            "elementIds": [
+                "85689b0d-98a4-4f22-b12d-fdc24fd08056",
+                "b85bcd6b-8a4d-4df6-88b7-6f0e96f54dec"
+            ]
+        },
+        {
+            "id": 1365,
+            "title": "Correct Use of Intermediate Catch Event",
+            "description": "You have correctly used an intermediate catch event to represent the Loan Applicant receiving the quote. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 3,
+            "elementIds": [
+                "6c134fc8-c3bb-4a6e-bf23-a0b33a47a09f"
+            ]
+        },
+        {
+            "id": 1366,
+            "title": "Correct Use of Message Event Definition",
+            "description": "The use of message event definitions in the start event and intermediate catch event is correct. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 3,
+            "elementIds": [
+                "99bfc542-ddc0-4f62-96bf-5933342c85cf",
+                "7d315946-04e9-457b-a839-1470948787c5"
+            ]
+        },
+        {
+            "id": 1367,
+            "title": "Correct Use of Lane Sets",
+            "description": "The use of lane sets to represent the Loan Applicant and the Credit Institute is correct. Excellent work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 3,
+            "elementIds": [
+                "2d6ef54d-06f4-42b0-b462-9e410ee4dd9a",
+                "f5a06b63-9342-4aeb-bbb3-2b4c414214a3"
+            ]
+        }
+    ],
+    "meta": {}
+}

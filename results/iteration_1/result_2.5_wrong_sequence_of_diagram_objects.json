@@ -1,0 +1,145 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1582,
+            "title": "Correct Collaboration Partners",
+            "description": "You correctly identified the collaboration partners as 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 33,
+            "elementIds": [
+                "aaa3c117-6a91-4a76-bb58-6385900b1851",
+                "42234cd1-2c02-4ac1-9811-3e16f70bd742"
+            ]
+        },
+        {
+            "id": 1583,
+            "title": "Correct Process Flow",
+            "description": "The process flow of the credit request from the Loan Applicant to the Credit Institute is accurately represented. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 33,
+            "elementIds": [
+                "62c9c913-c35d-42bf-b04a-035e406d103f",
+                "c34fd795-c9f9-4746-9f3c-bd1e7db86f7c"
+            ]
+        },
+        {
+            "id": 1584,
+            "title": "Correct Risk Assessment",
+            "description": "The task of the Loan Assessor assessing the risk is correctly represented in the model. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 33,
+            "elementIds": [
+                "d5d3772a-fb9a-46a9-8e69-d8b5714bfd48"
+            ]
+        },
+        {
+            "id": 1585,
+            "title": "Correct Terms Preparation",
+            "description": "You correctly represented the process of preparing the terms, both standard and special. Good work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 33,
+            "elementIds": [
+                "9e488201-0415-4221-91d3-7c27a652551e",
+                "5468504b-a239-4a2e-bce2-905df34aa319"
+            ]
+        },
+        {
+            "id": 1586,
+            "title": "Correct Contract Preparation",
+            "description": "The task of the Loan Provider preparing a contract is accurately represented in the model. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 33,
+            "elementIds": [
+                "1abc314d-c71f-4510-ba9b-42d0ffaebe1f"
+            ]
+        },
+        {
+            "id": 1587,
+            "title": "Correct Quote Sending",
+            "description": "The process of the Loan Assessor sending a quote to the Loan Applicant is correctly represented. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 33,
+            "elementIds": [
+                "fc61a3d0-ce0d-4005-9172-326aa28e4dca"
+            ]
+        },
+        {
+            "id": 1588,
+            "title": "Correct Quote Review",
+            "description": "The task of the Loan Applicant reviewing the quote is accurately represented in the model. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 33,
+            "elementIds": [
+                "4acea5d5-242e-44bb-93da-d9847fd21e3b"
+            ]
+        },
+        {
+            "id": 1589,
+            "title": "Correct End Events",
+            "description": "The end events for both the Loan Applicant and the Credit Institute are correctly represented. Good work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 33,
+            "elementIds": [
+                "61266413-641f-4a1d-9d61-e34eacbd5cd7",
+                "75db186f-4967-4541-b9fe-31bb6fe8ce2f"
+            ]
+        },
+        {
+            "id": 1590,
+            "title": "Correct Use of Gateways",
+            "description": "The use of exclusive and parallel gateways in the process is correct and well thought out. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 33,
+            "elementIds": [
+                "324e4494-1d7f-4b69-84f9-db14caea51fb",
+                "2f627ddd-1c5d-4994-9a99-fc3c4d24ee5e",
+                "81dfeb26-dadc-4a2b-94d9-de6474a88ff9",
+                "19e90f62-6421-4237-b697-96c7cedfbeec"
+            ]
+        },
+        {
+            "id": 1591,
+            "title": "Correct Message Flows",
+            "description": "The message flows between the Loan Applicant and the Credit Institute are correctly represented. Excellent!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 33,
+            "elementIds": [
+                "42234cd1-2c02-4ac1-9811-3e16f70bd742",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        }
+    ],
+    "meta": {}
+}

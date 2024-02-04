@@ -1,0 +1,151 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1592,
+            "title": "Correct Collaboration Partners",
+            "description": "You correctly identified the collaboration partners as 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 34,
+            "elementIds": [
+                "d270f3b8-8104-4299-9f35-a31670bef180",
+                "e7a67b79-fecf-40b2-9bdd-c89c7cc7e024"
+            ]
+        },
+        {
+            "id": 1593,
+            "title": "Correct Process Flow",
+            "description": "The process flow of the credit request from the Loan Applicant to the Credit Institute is accurately represented. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 34,
+            "elementIds": [
+                "2948f004-4a12-433a-9171-916a0937a5d1",
+                "40ea871e-bb20-4a9c-832c-10a3b3e3877c"
+            ]
+        },
+        {
+            "id": 1594,
+            "title": "Correct Task Representation",
+            "description": "You have correctly represented the tasks involved in the process such as 'Send credit request', 'Review request', 'Assess risk', 'Calculate terms', 'Prepare special terms', 'Prepare contract', and 'Send quote'. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 34,
+            "elementIds": [
+                "2948f004-4a12-433a-9171-916a0937a5d1",
+                "1fb60152-9998-456d-9f87-6389db30fa2e",
+                "6b428162-7e4d-4f10-8ebb-1bd2e8a71677",
+                "deb74f9c-1d1e-4a62-b4c4-c9f5e10090e4",
+                "f284dfe3-6dce-47e3-9427-3dd6ea899068",
+                "12a8180a-54a0-4006-b2a8-f45693962db3",
+                "f059d97b-9cc8-4261-b8c8-19dd0c351869"
+            ]
+        },
+        {
+            "id": 1595,
+            "title": "Correct Use of Gateways",
+            "description": "You have correctly used the exclusive and parallel gateways to represent decision points and concurrent tasks. Excellent work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 34,
+            "elementIds": [
+                "c6871f4c-fe99-4a01-ae89-4f58c68a3533",
+                "340cdd16-2cfe-472b-9f86-fbde5e95e760",
+                "16269033-f0a9-4708-9b27-9ade8a724b01",
+                "724f9a39-4037-40a0-81b1-0663cca50d6c"
+            ]
+        },
+        {
+            "id": 1596,
+            "title": "Correct End Events",
+            "description": "The end events 'Quote sent' and the unnamed end event in the Loan Applicant's process are correctly represented. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 34,
+            "elementIds": [
+                "d3fe38ac-2896-4230-8ed9-fbf9adc82721",
+                "fb4b44c6-588b-4eff-9803-d6fadcf86562"
+            ]
+        },
+        {
+            "id": 1597,
+            "title": "Incorrect Sequence Flow",
+            "description": "There seems to be an error in the sequence flow. The flow from 'Quote received' to 'Send credit request' (id-42) is not part of the problem statement. Please review and correct this.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 34,
+            "elementIds": [
+                "d270f3b8-8104-4299-9f35-a31670bef180"
+            ]
+        },
+        {
+            "id": 1598,
+            "title": "Missing Task",
+            "description": "The task 'Review quote' in the Loan Applicant's process is missing an outgoing sequence flow. Please add this to complete the process.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 34,
+            "elementIds": [
+                "dd123bfd-bc65-46bb-999b-705fbdba680f"
+            ]
+        },
+        {
+            "id": 1599,
+            "title": "Incorrect Message Flow",
+            "description": "The message flow from 'Send quote' to 'Quote received' (id-76) is incorrect. The source and target should be reversed. Please correct this.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 34,
+            "elementIds": [
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        },
+        {
+            "id": 1600,
+            "title": "Correct Message Event Definitions",
+            "description": "You have correctly used message event definitions in 'Credit request received' and 'Quote received'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 34,
+            "elementIds": [
+                "9bd1fbb6-498b-46b5-849e-62cbcf026031",
+                "8f14a87d-6367-4efc-8cea-82c70de5d8a5"
+            ]
+        },
+        {
+            "id": 1601,
+            "title": "Correct Use of Lanes",
+            "description": "You have correctly used lanes to represent the different roles in the process. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 34,
+            "elementIds": [
+                "6c906cfe-82f1-48af-bedb-526aae9bd90a",
+                "17c080bc-89e7-4538-90e9-b0493257ae63"
+            ]
+        }
+    ],
+    "meta": {}
+}

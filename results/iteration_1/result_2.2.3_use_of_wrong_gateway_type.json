@@ -1,0 +1,147 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1527,
+            "title": "Correct Collaboration",
+            "description": "You correctly identified the two collaboration partners, 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 26,
+            "elementIds": [
+                "311c1d88-3e7b-488f-8044-b717df7c9f7f",
+                "930e9d99-9c62-4ec8-aa11-d647da47146e"
+            ]
+        },
+        {
+            "id": 1528,
+            "title": "Correct Process Flow",
+            "description": "The process flow within the 'Credit Institute' is correctly modeled. The tasks are in the right order and the decision point for standard terms is well represented.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 26,
+            "elementIds": [
+                "685632ea-f6ea-4aa3-a879-39fa422bff76",
+                "19f3b007-f82d-4ee8-9c97-ffce0ce6e907",
+                "04abb3bb-7786-4ebb-ab6d-09e2ce2704d3",
+                "eb9f7667-2e71-40ca-a94b-a6106e961ba9",
+                "3d1791d0-02f0-4a47-9211-5991c6458af2",
+                "c610e0a3-a235-4830-ad2b-530f3a4fdadf",
+                "0d87f53b-59d5-4c2f-b6b4-2fbc8b1aef26"
+            ]
+        },
+        {
+            "id": 1529,
+            "title": "Correct Message Flow",
+            "description": "The message flow between 'Loan Applicant' and 'Credit Institute' is correctly represented. The credit request and quote are correctly sent and received.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 26,
+            "elementIds": [
+                "930e9d99-9c62-4ec8-aa11-d647da47146e",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        },
+        {
+            "id": 1530,
+            "title": "Correct End Events",
+            "description": "The end events for both 'Loan Applicant' and 'Credit Institute' are correctly modeled. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 26,
+            "elementIds": [
+                "c192ab7c-d4bf-40c9-a917-8f44c21e1ee6",
+                "34f91bae-ccaa-4a15-a094-2872ad413ab0"
+            ]
+        },
+        {
+            "id": 1531,
+            "title": "Incorrect Task Flow",
+            "description": "The task flow within the 'Loan Applicant' is incorrect. The 'Send credit request' task should not have an incoming sequence flow. Please correct this.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 26,
+            "elementIds": [
+                "d2d58636-5873-42e9-b6a1-65b554c101f7"
+            ]
+        },
+        {
+            "id": 1532,
+            "title": "Missing Decision Point",
+            "description": "The decision point for the 'Loan Applicant' to review the quote is missing. Please add this to your model.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 26,
+            "elementIds": [
+                "6e11027d-08c7-4206-a932-575fe04f3037"
+            ]
+        },
+        {
+            "id": 1533,
+            "title": "Correct Start Event",
+            "description": "The start event for the 'Credit Institute' is correctly modeled. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 26,
+            "elementIds": [
+                "d8abd354-8968-4270-96c6-f81d2755a760"
+            ]
+        },
+        {
+            "id": 1534,
+            "title": "Correct Risk Assessment",
+            "description": "The 'Assess risk' task is correctly modeled within the 'Credit Institute'. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 26,
+            "elementIds": [
+                "cfe6bd62-4189-4953-aa68-f8e408674a62"
+            ]
+        },
+        {
+            "id": 1535,
+            "title": "Correct Contract Preparation",
+            "description": "The 'Prepare contract' task is correctly modeled within the 'Credit Institute'. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 26,
+            "elementIds": [
+                "c610e0a3-a235-4830-ad2b-530f3a4fdadf"
+            ]
+        },
+        {
+            "id": 1536,
+            "title": "Correct Terms Calculation",
+            "description": "The 'Calculate terms' and 'Prepare special terms' tasks are correctly modeled within the 'Credit Institute'. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 26,
+            "elementIds": [
+                "eb9f7667-2e71-40ca-a94b-a6106e961ba9",
+                "3d1791d0-02f0-4a47-9211-5991c6458af2"
+            ]
+        }
+    ],
+    "meta": {}
+}

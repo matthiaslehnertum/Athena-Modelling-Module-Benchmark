@@ -1,0 +1,186 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1398,
+            "title": "Correct Collaboration Partners",
+            "description": "You correctly identified the collaboration partners as 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 8,
+            "elementIds": [
+                "49eecd1c-1bd6-4800-a439-1e53b782c020",
+                "40c39974-35eb-4d31-be13-e576a2ddba5c"
+            ]
+        },
+        {
+            "id": 1399,
+            "title": "Correct Process Flow",
+            "description": "The process flow of the loan application is well represented. The tasks are correctly ordered and the sequence flows are properly connected.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 8,
+            "elementIds": [
+                "b177211c-25f0-4fa5-ba60-2e5b584b1761",
+                "a6709781-caa7-4f16-836e-5ead60478644",
+                "b4a8a27a-22d3-4794-a27c-ab94b8b15ed5",
+                "de58f229-8406-49e7-b514-5619390d71ad",
+                "2b873036-ef58-4e8f-8d1d-0d391384295d",
+                "b09e6a43-75f2-4415-99f0-bfb9c94286de",
+                "c1203952-16ae-471f-9c06-cffbc9e50e91",
+                "ecb1dfa1-a06b-4105-9f19-c2a1612fc71f",
+                "46e96a4a-5feb-41d5-a799-32af19977565",
+                "55cecf95-67c7-4d6c-9770-ab37cdb8983e",
+                "4a27836d-a6e9-467e-9cf8-0985ea176d2f",
+                "d34f0184-a51e-41dd-ad99-d183cff0c140",
+                "0226579c-a5d4-411f-b1f9-54d9dcfe4f23",
+                "1a4f7aa1-10c6-475c-8aff-a0c081afee3c",
+                "aea29415-fdd3-49a1-883c-93ed67591e40",
+                "7cb92398-5253-4064-9874-55c1b3575f82",
+                "f164040a-b318-45db-afad-31695d5fdc8c"
+            ]
+        },
+        {
+            "id": 1400,
+            "title": "Correct Use of Gateways",
+            "description": "You have correctly used the exclusive and parallel gateways to represent decision points and concurrent tasks. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 8,
+            "elementIds": [
+                "0226579c-a5d4-411f-b1f9-54d9dcfe4f23",
+                "1a4f7aa1-10c6-475c-8aff-a0c081afee3c",
+                "aea29415-fdd3-49a1-883c-93ed67591e40",
+                "7cb92398-5253-4064-9874-55c1b3575f82"
+            ]
+        },
+        {
+            "id": 1401,
+            "title": "Correct Use of Events",
+            "description": "The start, intermediate catch, and end events are correctly used and placed in the process. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 8,
+            "elementIds": [
+                "b177211c-25f0-4fa5-ba60-2e5b584b1761",
+                "de58f229-8406-49e7-b514-5619390d71ad",
+                "2b873036-ef58-4e8f-8d1d-0d391384295d",
+                "b09e6a43-75f2-4415-99f0-bfb9c94286de",
+                "f164040a-b318-45db-afad-31695d5fdc8c"
+            ]
+        },
+        {
+            "id": 1402,
+            "title": "Correct Message Flows",
+            "description": "The message flows between the Loan Applicant and the Credit Institute are correctly represented. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 8,
+            "elementIds": [
+                "40c39974-35eb-4d31-be13-e576a2ddba5c",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        },
+        {
+            "id": 1403,
+            "title": "Missing Task Name",
+            "description": "The task with id 'id-38' is missing a name. Please ensure to name all tasks for clarity.",
+            "credits": -0.2,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 8,
+            "elementIds": [
+                "d34f0184-a51e-41dd-ad99-d183cff0c140"
+            ]
+        },
+        {
+            "id": 1404,
+            "title": "Correct Use of Lanes",
+            "description": "You have correctly used lanes to represent the different roles in the process. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 8,
+            "elementIds": [
+                "c8eae3f5-015e-4057-94a9-d718a37ab4cc",
+                "5003a487-e914-4614-a6a8-b80ef648dc77"
+            ]
+        },
+        {
+            "id": 1405,
+            "title": "Correct Use of Tasks",
+            "description": "The tasks in the process are correctly used and named. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 8,
+            "elementIds": [
+                "a6709781-caa7-4f16-836e-5ead60478644",
+                "b4a8a27a-22d3-4794-a27c-ab94b8b15ed5",
+                "c1203952-16ae-471f-9c06-cffbc9e50e91",
+                "ecb1dfa1-a06b-4105-9f19-c2a1612fc71f",
+                "46e96a4a-5feb-41d5-a799-32af19977565",
+                "55cecf95-67c7-4d6c-9770-ab37cdb8983e",
+                "4a27836d-a6e9-467e-9cf8-0985ea176d2f"
+            ]
+        },
+        {
+            "id": 1406,
+            "title": "Correct Use of Sequence Flows",
+            "description": "The sequence flows in the process are correctly used and connected. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 8,
+            "elementIds": [
+                "ebdd8266-9e68-46ee-ac02-710ff2e9a659",
+                "49eecd1c-1bd6-4800-a439-1e53b782c020",
+                "31b6af80-76a0-4fd1-be73-81e7f1a5388e",
+                "aff90906-1e44-4980-a0f2-00163e6eebe5",
+                "23d76777-ee61-496e-92c7-6bbd120b20f1",
+                "1e638a92-466c-4491-b85a-e80267cff545",
+                "66fe2424-b0cc-4e50-988c-f0910dd92aa6",
+                "8263561f-d70e-4264-8e6e-6d545c9d4d57",
+                "2c669dc1-ec78-4ce9-af27-6fd58b5f4e17",
+                "3eae3c61-5acf-4687-95d0-c5e16bb689b2",
+                "c09d469a-0377-47f1-a2b5-6662f2afc0b1",
+                "a72d62b3-e113-4b90-bfd9-2480861d1186",
+                "70b979b6-32e9-45c7-be45-518507652a30",
+                "c6ac591f-51fd-4c6e-bdfa-ae74a029d73d",
+                "60e891d4-0604-45e4-b2c7-b6d6b9f72ba2",
+                "2bcae199-700f-44b9-93e1-2dacb6061bd8",
+                "b409934a-f4ad-4bcb-a157-4457c97e17fb"
+            ]
+        },
+        {
+            "id": 1407,
+            "title": "Correct Use of Message Event Definitions",
+            "description": "The message event definitions in the process are correctly used. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 8,
+            "elementIds": [
+                "ebdd8266-9e68-46ee-ac02-710ff2e9a659",
+                "31b6af80-76a0-4fd1-be73-81e7f1a5388e"
+            ]
+        }
+    ],
+    "meta": {}
+}

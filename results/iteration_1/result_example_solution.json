@@ -1,0 +1,83 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1344,
+            "title": "Correct Process Flow",
+            "description": "You have correctly modeled the process flow for both the Loan Applicant and the Credit Institute. The tasks are well-ordered and the sequence flows are correctly connected.",
+            "credits": 5.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 1,
+            "elementIds": [
+                "644d2af1-06a8-4620-aa8b-a44e61becaac",
+                "d6830553-9e85-4468-b1c8-9138c73751df",
+                "e58129ca-21d0-40a0-8d9f-d8044b2d09f3",
+                "10974da3-11f8-4944-90eb-83ea1110a2e0",
+                "ee0c8083-4912-481b-8eae-b7e4a3f4004d",
+                "153fec57-88d2-40ff-9374-e80d6609ab85",
+                "ea93d920-031e-4dbf-b47e-6a4ad099e90e",
+                "bc765376-06c2-466a-b6ba-9aa2dbd84e3e",
+                "edd8a615-2e8f-4f1e-94ac-610c2a81ee51",
+                "bcb06407-3bc1-432f-bf53-4d9fa6d3432d",
+                "6d70ba1a-3971-4a63-a84a-b46809fb01bf",
+                "9c9d7b7d-a841-4e18-8fd4-b071989e65a8",
+                "e9872296-5b49-4549-9254-e160170e3f9e",
+                "be3cd899-6cee-4de8-a43c-5b98890ea63f",
+                "c60228de-8282-4240-88f4-af638771f267",
+                "8c9b1cd2-260a-4cbe-b8e2-6debe1358f11",
+                "1bbf2e30-0bf4-4b9a-839c-eabc7e4faa0b"
+            ]
+        },
+        {
+            "id": 1345,
+            "title": "Correct Use of Gateways",
+            "description": "You have correctly used the exclusive and parallel gateways in the Credit Institute's process. The exclusive gateway for checking if standard terms are applicable is well-placed and the parallel gateway for the simultaneous tasks of risk assessment and term preparation is also correctly used.",
+            "credits": 2.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 1,
+            "elementIds": [
+                "e9872296-5b49-4549-9254-e160170e3f9e",
+                "be3cd899-6cee-4de8-a43c-5b98890ea63f",
+                "c60228de-8282-4240-88f4-af638771f267",
+                "8c9b1cd2-260a-4cbe-b8e2-6debe1358f11"
+            ]
+        },
+        {
+            "id": 1346,
+            "title": "Correct Use of Events",
+            "description": "You have correctly used start, intermediate catch, and end events in your model. The start events correctly initiate the processes, the intermediate catch event correctly captures the quote received by the Loan Applicant, and the end events correctly terminate the processes.",
+            "credits": 2.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 1,
+            "elementIds": [
+                "644d2af1-06a8-4620-aa8b-a44e61becaac",
+                "10974da3-11f8-4944-90eb-83ea1110a2e0",
+                "ee0c8083-4912-481b-8eae-b7e4a3f4004d",
+                "153fec57-88d2-40ff-9374-e80d6609ab85",
+                "1bbf2e30-0bf4-4b9a-839c-eabc7e4faa0b"
+            ]
+        },
+        {
+            "id": 1347,
+            "title": "Correct Use of Message Flows",
+            "description": "You have correctly used message flows to represent the communication between the Loan Applicant and the Credit Institute. The message flows correctly connect the tasks of sending the credit request and sending the quote.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 1,
+            "elementIds": [
+                "f01b70d8-f42f-42bf-a7d6-ce838c9deddd",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        }
+    ],
+    "meta": {}
+}

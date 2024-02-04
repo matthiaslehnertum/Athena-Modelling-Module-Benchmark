@@ -1,0 +1,63 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1445,
+            "title": "Correct Process Flow",
+            "description": "You have correctly modeled the process flow for both the Loan Applicant and the Credit Institute. The sequence of tasks and events aligns well with the problem statement.",
+            "credits": 7.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": [
+                "d96ed782-7f22-4a76-ae70-0dc7343b3f5f",
+                "9584ac81-eead-470d-adbc-ad8dc8b9afaf",
+                "1e1c35bd-c053-4f0e-b84e-1c1612be85dd",
+                "850b9caf-5312-4aca-9fc8-31ebf0b53e68",
+                "e6292119-29c3-4bb1-8096-5016ed483f07",
+                "5cd234cb-b926-41b1-ada1-62cc7fde1794",
+                "b5197dca-3bcf-456d-bb2e-80c6be468bc0",
+                "d6070c3f-a842-47dd-ad5f-2d9306c444c3",
+                "e7bad4cb-2665-4680-bef1-a0bf56d397d4",
+                "18ba83f5-c162-4113-b279-89b0f1cf7259",
+                "d22fdda1-26e4-4272-b4f1-c767940e04a8",
+                "c9d601f2-1ade-4baf-8a79-87c3d52aeb73",
+                "42c5e0fc-25ab-4548-b021-205279e8e5d3",
+                "9eac442e-a182-48da-b9cd-58f065287b45"
+            ]
+        },
+        {
+            "id": 1446,
+            "title": "Correct Use of Gateways",
+            "description": "You have correctly used the exclusive and parallel gateways to model decision points and concurrent tasks. This is particularly evident in the Credit Institute's process where the decision to apply standard terms and the concurrent tasks of risk assessment and term preparation are well represented.",
+            "credits": 2.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": [
+                "d6070c3f-a842-47dd-ad5f-2d9306c444c3",
+                "e7bad4cb-2665-4680-bef1-a0bf56d397d4",
+                "600285e1-0340-48ce-8ecf-6e3576fc2512",
+                "88397f6a-f088-4215-8911-ab666ef0eb7f"
+            ]
+        },
+        {
+            "id": 1447,
+            "title": "Correct Use of Message Flows",
+            "description": "You have correctly used message flows to represent the communication between the Loan Applicant and the Credit Institute. This is evident in the sending of the credit request and the receipt of the quote.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": [
+                "19efd86d-e899-4aea-8ba7-da031b9b934e",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        }
+    ],
+    "meta": {}
+}

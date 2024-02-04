@@ -1,0 +1,161 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1388,
+            "title": "Correct Collaboration",
+            "description": "You correctly identified the two collaboration partners, 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 7,
+            "elementIds": [
+                "84ae445f-ee35-487f-8fc9-335a44458b6d",
+                "6150f546-895c-499c-a08f-c64121f45636"
+            ]
+        },
+        {
+            "id": 1389,
+            "title": "Correct Process Flow",
+            "description": "The process flow within the 'Credit Institute' is correctly modeled. You have accurately represented the tasks and their sequence. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 7,
+            "elementIds": [
+                "fbe38bbb-27dc-4ec1-8494-91215f1c1506",
+                "97bbf6be-f600-49c1-8bc0-b026d2c04a7d",
+                "bd473069-6480-4996-8a06-ea8c79098c61",
+                "0c45b713-2ba8-4c91-8129-0d9fb983d93f",
+                "1c420167-91a3-47ec-b5f5-a507298464e0",
+                "f3bc12aa-bc5f-4c04-892a-0bac610fd6fe",
+                "f2ec02c0-156d-44b3-91b3-fb4b0c77bc28",
+                "6ab39280-9609-45ba-bd03-bf1fff690e60",
+                "b41c7666-3077-4130-bdde-1b12c3f88871",
+                "72b2a48a-b66c-4570-8de2-90d56d88761f",
+                "d5cbd410-a1e5-4357-8891-f41e9dd49f2c",
+                "c515cc8b-35fa-4537-ab72-52a1a6f5c1a3"
+            ]
+        },
+        {
+            "id": 1390,
+            "title": "Correct Use of Gateways",
+            "description": "You have correctly used the exclusive and parallel gateways in the 'Credit Institute' process. This accurately represents the decision-making and concurrent tasks in the process.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 7,
+            "elementIds": [
+                "6ab39280-9609-45ba-bd03-bf1fff690e60",
+                "b41c7666-3077-4130-bdde-1b12c3f88871",
+                "72b2a48a-b66c-4570-8de2-90d56d88761f",
+                "d5cbd410-a1e5-4357-8891-f41e9dd49f2c"
+            ]
+        },
+        {
+            "id": 1391,
+            "title": "Correct Message Flow",
+            "description": "The message flow between 'Loan Applicant' and 'Credit Institute' is correctly modeled. You have accurately represented the communication between the two entities.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 7,
+            "elementIds": [
+                "6150f546-895c-499c-a08f-c64121f45636",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        },
+        {
+            "id": 1392,
+            "title": "Incorrect Process Flow in Loan Applicant",
+            "description": "The process flow within the 'Loan Applicant' is not correctly modeled. The 'Send credit request' task should not have an incoming sequence flow. Please revise this part.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 7,
+            "elementIds": [
+                "8e3cb22a-169c-457f-a5a7-aa8cdb9676ba"
+            ]
+        },
+        {
+            "id": 1393,
+            "title": "Correct End Events",
+            "description": "You have correctly used end events in both 'Loan Applicant' and 'Credit Institute' processes. This accurately represents the end of the processes.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 7,
+            "elementIds": [
+                "2d700ef6-3e99-4023-aad3-8188b13d3112",
+                "c515cc8b-35fa-4537-ab72-52a1a6f5c1a3"
+            ]
+        },
+        {
+            "id": 1394,
+            "title": "Correct Start Event",
+            "description": "You have correctly used the start event in the 'Credit Institute' process. This accurately represents the start of the process.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 7,
+            "elementIds": [
+                "f2ec02c0-156d-44b3-91b3-fb4b0c77bc28"
+            ]
+        },
+        {
+            "id": 1395,
+            "title": "Incorrect Use of End Event",
+            "description": "The end event in the 'Loan Applicant' process should not have an outgoing sequence flow. Please revise this part.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 7,
+            "elementIds": [
+                "e7889b35-bc80-48c5-aea8-098589836901"
+            ]
+        },
+        {
+            "id": 1396,
+            "title": "Correct Use of Tasks",
+            "description": "You have correctly used tasks in both 'Loan Applicant' and 'Credit Institute' processes. This accurately represents the activities in the processes.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 7,
+            "elementIds": [
+                "8e3cb22a-169c-457f-a5a7-aa8cdb9676ba",
+                "df017364-4fda-41d4-8258-6d0ad2832865",
+                "fbe38bbb-27dc-4ec1-8494-91215f1c1506",
+                "97bbf6be-f600-49c1-8bc0-b026d2c04a7d",
+                "bd473069-6480-4996-8a06-ea8c79098c61",
+                "0c45b713-2ba8-4c91-8129-0d9fb983d93f",
+                "1c420167-91a3-47ec-b5f5-a507298464e0",
+                "f3bc12aa-bc5f-4c04-892a-0bac610fd6fe"
+            ]
+        },
+        {
+            "id": 1397,
+            "title": "Correct Use of Intermediate Catch Event",
+            "description": "You have correctly used the intermediate catch event in the 'Loan Applicant' process. This accurately represents the receipt of the quote.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 7,
+            "elementIds": [
+                "e7889b35-bc80-48c5-aea8-098589836901"
+            ]
+        }
+    ],
+    "meta": {}
+}

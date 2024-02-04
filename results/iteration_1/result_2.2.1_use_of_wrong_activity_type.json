@@ -1,0 +1,93 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1517,
+            "title": "Correct Collaboration Partners",
+            "description": "You correctly identified the collaboration partners as 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 24,
+            "elementIds": [
+                "c40cc875-bdf2-43ef-aee2-04591f2a5839",
+                "8c9398e1-93c1-40ca-90b9-f056e88776d7"
+            ]
+        },
+        {
+            "id": 1518,
+            "title": "Correct Process Flow",
+            "description": "The process flow in your model is mostly correct. However, there seems to be a mistake in the sequence flow id-42, which is duplicated. Please ensure each sequence flow has a unique id.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 24,
+            "elementIds": [
+                "c40cc875-bdf2-43ef-aee2-04591f2a5839"
+            ]
+        },
+        {
+            "id": 1519,
+            "title": "Correct Use of Gateways",
+            "description": "You have correctly used the parallel and exclusive gateways in your model. This accurately represents the decision-making process within the Credit Institute.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 24,
+            "elementIds": [
+                "96003234-c9ff-4fe9-84be-12db26c20451",
+                "0510998b-1537-4d95-a875-2c31a30c6f58",
+                "00fbbebd-a8ca-4d05-bc14-99e3c9777d5a",
+                "d7a2abcb-f016-4e31-ad44-1a7f5fa6be3d"
+            ]
+        },
+        {
+            "id": 1520,
+            "title": "Correct Use of Tasks",
+            "description": "The tasks in your model accurately represent the actions taken by the Loan Applicant and the Credit Institute. However, the 'Review quote' task should be a receive task, not a send task.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 24,
+            "elementIds": [
+                "70a50486-26e2-4381-9c42-05c26bef7971"
+            ]
+        },
+        {
+            "id": 1521,
+            "title": "Correct Use of Events",
+            "description": "You have correctly used start, end, and intermediate catch events in your model. This accurately represents the start and end of the processes, as well as the receipt of the quote by the Loan Applicant.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 24,
+            "elementIds": [
+                "3a21b1a3-5e4e-4391-9f43-ea53fb979ca9",
+                "e5f0a553-8373-44bc-a2d9-c339ae9bc024",
+                "355d01dd-d131-4f3d-9cd5-1410d8986722",
+                "40b89a1d-5dc9-4187-8129-0fd3c0841e06"
+            ]
+        },
+        {
+            "id": 1522,
+            "title": "Correct Use of Message Flows",
+            "description": "The message flows in your model accurately represent the communication between the Loan Applicant and the Credit Institute. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 24,
+            "elementIds": [
+                "8c9398e1-93c1-40ca-90b9-f056e88776d7",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        }
+    ],
+    "meta": {}
+}

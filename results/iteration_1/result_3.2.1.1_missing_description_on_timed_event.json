@@ -1,0 +1,126 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1624,
+            "title": "Correct Collaboration Partners",
+            "description": "You correctly identified the collaboration partners as 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 38,
+            "elementIds": [
+                "d732643a-331a-47f6-9ec3-5d362c96c743",
+                "0c74c706-95e2-4a4b-ad08-c218a236fad8"
+            ]
+        },
+        {
+            "id": 1625,
+            "title": "Correct Process Flow",
+            "description": "The process flow from the 'Loan Applicant' sending a credit request to the 'Credit Institute' and receiving a quote is correctly modeled. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 38,
+            "elementIds": [
+                "7a83282a-c5e2-4622-b262-23efe73be121",
+                "440a940b-ad84-4055-97eb-4c46c71d1f92",
+                "5e35cd08-ffad-4df7-8466-45200f282953",
+                "9117d550-4b76-47ea-9525-a52351473a4a"
+            ]
+        },
+        {
+            "id": 1626,
+            "title": "Correct Task Identification",
+            "description": "You correctly identified and modeled the tasks involved in the process such as 'Send credit request', 'Review request', 'Assess risk', 'Calculate terms', 'Prepare special terms', 'Prepare contract', and 'Send quote'. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 38,
+            "elementIds": [
+                "7a83282a-c5e2-4622-b262-23efe73be121",
+                "aaa0f8b5-4977-4a4e-ba52-a37023842f30",
+                "a1f4745b-96e2-41d0-85ab-791d0182dd95",
+                "f9011048-6117-4f3e-884b-138314599f35",
+                "9aa120c2-3a50-405e-b34d-926156a10d9c",
+                "b38ae837-8269-488d-9bbc-788ca878533d",
+                "5e35cd08-ffad-4df7-8466-45200f282953"
+            ]
+        },
+        {
+            "id": 1627,
+            "title": "Correct Use of Gateways",
+            "description": "You correctly used the exclusive gateway to model the decision point of whether standard terms are applicable or not, and the parallel gateway to model the concurrent tasks of risk assessment and contract preparation. Excellent work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 38,
+            "elementIds": [
+                "5dc9f065-4d0f-4a30-a889-ceb53bbfbd26",
+                "86627e80-4123-42f5-8eca-7f3146d7ad72",
+                "9d9b5b98-52a9-4c0a-851b-34f65b2243e1"
+            ]
+        },
+        {
+            "id": 1628,
+            "title": "Correct Use of Events",
+            "description": "You correctly used the start event to model the receipt of the credit request, the intermediate catch event to model the receipt of the quote by the 'Loan Applicant', and the end event to model the end of the process. Great job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 38,
+            "elementIds": [
+                "440a940b-ad84-4055-97eb-4c46c71d1f92",
+                "9117d550-4b76-47ea-9525-a52351473a4a",
+                "3a3b4cee-1e7b-413b-81b3-085b4ff4531d",
+                "ea81b540-d926-4eb9-99f9-1333e022bff4"
+            ]
+        },
+        {
+            "id": 1629,
+            "title": "Incorrect Sequence Flow",
+            "description": "There are some sequence flows that are not correctly modeled. For example, the sequence flow from 'Send credit request' to 'Quote received' (id-42) is not correct. Please review the problem statement and correct these errors.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 38,
+            "elementIds": [
+                "08db2286-796e-4731-bc4d-b9d4822910f3"
+            ]
+        },
+        {
+            "id": 1630,
+            "title": "Missing Elements",
+            "description": "There are some elements missing in your model. For example, the task 'Review quote' by the 'Loan Applicant' is not connected to any other element. Please review the problem statement and add the missing elements.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 38,
+            "elementIds": [
+                "13858c92-473d-474c-a3ee-f71acae346c2"
+            ]
+        },
+        {
+            "id": 1631,
+            "title": "Redundant Elements",
+            "description": "There are some redundant elements in your model. For example, the timer event (id-7) is not required according to the problem statement. Please review your model and remove these elements.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 38,
+            "elementIds": [
+                "bec2a767-e073-4e84-877d-fb49588d8b52"
+            ]
+        }
+    ],
+    "meta": {}
+}

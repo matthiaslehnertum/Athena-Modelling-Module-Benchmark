@@ -1,0 +1,86 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1619,
+            "title": "Correct Collaboration",
+            "description": "You correctly identified the two collaboration partners, 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 37,
+            "elementIds": [
+                "da99af23-b765-498f-802e-cdd5b6cc0a87",
+                "2bf82db2-959d-4763-bf59-080d9af3a5f3"
+            ]
+        },
+        {
+            "id": 1620,
+            "title": "Correct Process Flow",
+            "description": "The process flow within the 'Credit Institute' is correctly modeled. You have accurately represented the sequence of tasks and decision points. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 37,
+            "elementIds": [
+                "d0b753df-56aa-4a3e-b5d6-d02098a45dc9",
+                "55dc9ca9-e766-42a0-aebf-8469edbf440a",
+                "3fd537b5-cef0-4a65-bc2b-1887b9ea130c",
+                "8f707e1b-9c2e-474d-bca5-a78b4d0a8193",
+                "1ee6eb07-9b6f-4646-bff3-6373941b0d78",
+                "419b7f49-089d-44f4-8208-ec88ca833622",
+                "83106bdd-adbd-40bf-9dab-1b31fc1042f5",
+                "e89903bc-1fc3-4cbe-9b45-a7dc9020cf9f",
+                "5cb13618-3dac-4cf2-9ae1-cebd79b82621",
+                "91a67ade-cd57-4fe0-95c8-d2be8e7c004f",
+                "a70f1f46-60c2-487d-ba18-081057b93f3d",
+                "d920f2f4-452d-4af5-a747-c68a8a9d4a3c"
+            ]
+        },
+        {
+            "id": 1621,
+            "title": "Correct Message Flow",
+            "description": "The message flow between 'Loan Applicant' and 'Credit Institute' is correctly modeled. You have accurately represented the exchange of messages between the two entities. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 37,
+            "elementIds": [
+                "2bf82db2-959d-4763-bf59-080d9af3a5f3",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        },
+        {
+            "id": 1622,
+            "title": "Incorrect Process Flow",
+            "description": "The process flow within the 'Loan Applicant' is not correctly modeled. The 'Send credit request' task should not have an incoming sequence flow. Please revise this part of your model.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 37,
+            "elementIds": [
+                "7c009b17-444b-462a-b662-9be379aef65f"
+            ]
+        },
+        {
+            "id": 1623,
+            "title": "Missing Elements",
+            "description": "You have missed some elements in the 'Loan Applicant' process. The 'Review quote' task and the 'Quote received' event are not connected correctly. Please revise this part of your model.",
+            "credits": -1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 37,
+            "elementIds": [
+                "2958508f-c09d-4415-b48e-4dd4af29fa3f",
+                "dad42f7a-69c4-466d-bcc9-40f2a4344501"
+            ]
+        }
+    ],
+    "meta": {}
+}

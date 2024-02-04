@@ -1,0 +1,112 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1612,
+            "title": "Correct Collaboration",
+            "description": "You correctly modeled the collaboration between the Loan Applicant and the Credit Institute. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 36,
+            "elementIds": [
+                "fdae6720-49b5-4fd7-9359-53e19d30bf2c"
+            ]
+        },
+        {
+            "id": 1613,
+            "title": "Correct Message Flows",
+            "description": "The message flows between the Loan Applicant and the Credit Institute are correctly modeled. Well done!",
+            "credits": 2.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 36,
+            "elementIds": [
+                "d839700d-fc0e-4e18-bbf3-73d908c43a02",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        },
+        {
+            "id": 1614,
+            "title": "Correct Loan Applicant Process",
+            "description": "The process for the Loan Applicant is correctly modeled. You've done a great job of capturing the steps the Loan Applicant takes in this process.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 36,
+            "elementIds": [
+                "57be7ebb-099e-47ec-bf5f-2d728437d987"
+            ]
+        },
+        {
+            "id": 1615,
+            "title": "Correct Credit Institute Process",
+            "description": "The process for the Credit Institute is correctly modeled. You've accurately represented the steps the Credit Institute takes in this process.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 36,
+            "elementIds": [
+                "e975fb67-ccc1-4373-b214-d3e8742930aa"
+            ]
+        },
+        {
+            "id": 1616,
+            "title": "Correct Use of Gateways",
+            "description": "You've correctly used parallel and exclusive gateways in the Credit Institute process. This accurately represents the decision-making and concurrent activities in the process.",
+            "credits": 2.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 36,
+            "elementIds": [
+                "ac7f76c8-97b3-4ac6-be4e-17e665db150f",
+                "bf751cc8-8913-4561-b868-7bb00916137e",
+                "f93516a8-d54f-4bed-84d3-0912690fdf5e",
+                "fe6c556c-1926-48ec-84af-0f2cd62db8e0"
+            ]
+        },
+        {
+            "id": 1617,
+            "title": "Correct Use of Events",
+            "description": "You've correctly used start, intermediate catch, and end events in your model. This accurately represents the start, progress, and end of the processes.",
+            "credits": 2.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 36,
+            "elementIds": [
+                "31c104f8-efb0-4191-8632-9849589965c2",
+                "c9c9e5ac-0122-4c88-b585-56178f216d95",
+                "e0ebf447-d76a-44e2-bbee-4f8c417d9173",
+                "7741d0c9-707f-4677-9d05-fa34c2bbc7c3"
+            ]
+        },
+        {
+            "id": 1618,
+            "title": "Correct Use of Tasks",
+            "description": "You've correctly used tasks to represent the activities in the processes. This accurately represents the work done by the Loan Applicant and the Credit Institute.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 36,
+            "elementIds": [
+                "230d6a83-ab39-4a4a-b8b5-299fc2cfbecf",
+                "b7fb92c5-5591-4724-b410-1b8f7c5bdd66",
+                "5a4b19f6-2085-4c85-a5a5-74b28db33995",
+                "ebf76ba2-c139-44e6-a54c-14280e9e5cdd",
+                "42663b5b-e7d3-4812-be95-352b8144c9c9",
+                "c095a506-02a3-4cf6-9781-09260db72106",
+                "dafc2262-f6c6-456b-b7f6-8ea80f8ac953",
+                "aa09e6c8-a1c2-4cb4-b52f-975e8833e5b1"
+            ]
+        }
+    ],
+    "meta": {}
+}

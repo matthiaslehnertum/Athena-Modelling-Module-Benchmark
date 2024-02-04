@@ -1,0 +1,87 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1542,
+            "title": "Correct Process Flow",
+            "description": "You have correctly modeled the process flow between the Loan Applicant and the Credit Institute. The tasks are well defined and the sequence flows are correctly linked.",
+            "credits": 4.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 28,
+            "elementIds": [
+                "9ab0c5e2-d589-47db-9295-f782cb43b631",
+                "ec51cb0a-d6b8-40eb-9d4e-b0fff8af381d",
+                "86c2ff00-d1bf-4aa9-92c3-b5b583df46da",
+                "841ed001-b2bd-4ebe-81a3-d10e3ca7b5e4",
+                "edacd945-5a25-43c7-96ac-db15cda822bc",
+                "9e91627c-253b-44cf-b838-c27e75aa96d8",
+                "0daf8be3-9775-4628-8e6e-7a68ee64f88a",
+                "295fe4fa-efed-4a28-8306-14d7615c04ed"
+            ]
+        },
+        {
+            "id": 1543,
+            "title": "Correct Use of Gateways",
+            "description": "You have correctly used the exclusive and parallel gateways to model the decision points and concurrent tasks in the process. Good job!",
+            "credits": 2.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 28,
+            "elementIds": [
+                "2797e411-1226-4dff-9d93-f92140b5044b",
+                "64912148-8ac8-4e13-b333-5d128f10c6ed",
+                "5fa6b3ef-fcca-419f-afe6-be7920537278",
+                "cab1b687-a21e-42ba-9cb7-0d98aff4e45a"
+            ]
+        },
+        {
+            "id": 1544,
+            "title": "Correct Use of Events",
+            "description": "You have correctly used start and end events to model the beginning and end of the process. However, the intermediate catch event 'Lunch plans exchanged' seems out of context and does not match the problem statement.",
+            "credits": 1.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 28,
+            "elementIds": [
+                "21e39a16-3bec-4867-9e71-0b4e35a51b6f",
+                "d325e375-4e1f-4b81-92c5-d8a4ffe95abc",
+                "92a9b434-d33d-4705-a979-2196c52e195d",
+                "15bd1888-5b0c-4fb8-b27b-81faa377b056"
+            ]
+        },
+        {
+            "id": 1545,
+            "title": "Correct Use of Message Flows",
+            "description": "You have correctly used message flows to model the interaction between the Loan Applicant and the Credit Institute. However, the message flow from 'Send quote' to 'Lunch plans exchanged' does not match the problem statement.",
+            "credits": 1.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 28,
+            "elementIds": [
+                "4b60ac23-f03c-4176-b592-93c0e405f2d4",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        },
+        {
+            "id": 1546,
+            "title": "Correct Use of Participants",
+            "description": "You have correctly used participants to model the Loan Applicant and the Credit Institute. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 28,
+            "elementIds": [
+                "1ca3806c-fb76-4a8a-9051-ba57f5ff1151",
+                "4b60ac23-f03c-4176-b592-93c0e405f2d4"
+            ]
+        }
+    ],
+    "meta": {}
+}
