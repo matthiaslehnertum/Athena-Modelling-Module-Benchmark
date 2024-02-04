@@ -1,0 +1,129 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 880,
+            "title": "Missing Elements",
+            "description": "Your model is missing some elements described in the problem statement. Specifically, there is no 'Check if standard terms are applicable' task. Please ensure all elements from the problem statement are included in your model.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": []
+        },
+        {
+            "id": 881,
+            "title": "Exclusive Gateway Outgoing Flows",
+            "description": "You have correctly labeled the outgoing flows from the exclusive gateway 'Standard terms applicable?'. However, the other exclusive gateway does not have labeled outgoing flows. Please ensure all outgoing flows from exclusive gateways are labeled.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": [
+                "084d9d6a-ebf3-40cd-9823-6429fdc170bc"
+            ]
+        },
+        {
+            "id": 882,
+            "title": "Start Event",
+            "description": "Your model correctly includes a start event, 'Credit request received'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": [
+                "a83fc328-fbea-4ee7-8d14-390bbd5b27a2"
+            ]
+        },
+        {
+            "id": 883,
+            "title": "End Event",
+            "description": "Your model correctly includes end events for both the 'Loan Applicant' and 'Credit Institute'. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": [
+                "38e69e76-0b45-4562-9aa3-5a0de083183d",
+                "72960ece-aa91-46e7-be3b-a5d6fee19ded"
+            ]
+        },
+        {
+            "id": 884,
+            "title": "Activity Order",
+            "description": "The order of activities in your model does not match the problem statement. For example, 'Consult secondary financial advisor' is not in the problem statement. Please ensure the order of activities matches the problem statement.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": []
+        },
+        {
+            "id": 885,
+            "title": "Pool and Swimlane Labels",
+            "description": "You have correctly labeled all pools and swimlanes in your model. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": [
+                "12f513b3-35dc-4640-83a8-672031ea6e40",
+                "c7f929bf-269e-48ac-a471-641a28a212e6"
+            ]
+        },
+        {
+            "id": 886,
+            "title": "Extra Elements",
+            "description": "Your model contains elements not described in the problem statement, such as 'Consult secondary financial advisor'. Please remove any elements not described in the problem statement.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": [
+                "04ed5919-2799-4762-bffe-e74d47d17c22"
+            ]
+        },
+        {
+            "id": 887,
+            "title": "Diagram Element Connections",
+            "description": "All diagram elements in your model are correctly connected. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": []
+        },
+        {
+            "id": 888,
+            "title": "Task Naming",
+            "description": "All tasks in your model are correctly named in the 'Verb Object' format. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": []
+        },
+        {
+            "id": 889,
+            "title": "Sequence Flows Between Pools",
+            "description": "Your model correctly does not have any sequence flows connecting elements in two different pools. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": []
+        }
+    ],
+    "meta": {}
+}

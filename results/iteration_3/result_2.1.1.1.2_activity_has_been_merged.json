@@ -1,0 +1,163 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+          "id": 1707000253087000,
+          "title": "Presence of all elements",
+          "description": "All elements described in the problem statement are present in your submission. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 18,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000253087001,
+          "title": "Labeling of outgoing flows from exclusive gateway",
+          "description": "You have correctly labeled the outgoing flows from the exclusive gateway. Keep it up!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 18,
+          "element_ids": [
+            "bb9aa9bb-3f43-4df8-a044-93bc250a5bf9"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000253087002,
+          "title": "Presence of start-event",
+          "description": "Your model includes a start-event, which is a good practice in BPMN modelling. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 18,
+          "element_ids": [
+            "1ceba733-012a-4589-b41b-2fa8cb72e05a"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000253087003,
+          "title": "Presence of end-event",
+          "description": "Your model includes an end-event, which is a good practice in BPMN modelling. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 18,
+          "element_ids": [
+            "b74aeb55-e498-4a14-893c-25f74d1e5a1e",
+            "97ab7536-64a0-4280-9ee5-e856148acd8a"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000253087004,
+          "title": "Order of activities",
+          "description": "The order of activities in your submission does not match the problem statement. Please revise your model to ensure the activities follow the correct sequence.",
+          "credits": 0,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 18,
+          "element_ids": [
+            "574b12b9-a08e-4b1b-8d30-0da8397879ac",
+            "cfb14ee2-6ea3-417b-9cf3-34a67324fb5c",
+            "7ceb1b2d-57b8-41a3-a4db-6905518210b2",
+            "ce728058-f3e9-488d-84ea-601a716a8a48",
+            "fb838148-0cb2-4726-8b6e-59bf9caa58a4",
+            "2ea2ab55-504e-47ff-beb0-2443333cf304",
+            "d0945ace-074c-4d56-bc33-c77d628a3008"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000253087005,
+          "title": "Labeling of pools and lanes",
+          "description": "You have correctly labeled all pools and lanes in your model. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 18,
+          "element_ids": [
+            "51dbd76b-3364-4278-9fd7-4ed7ebd3ee1c",
+            "1a6d7ff6-080f-4190-ba08-dbe812a29286"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000253087006,
+          "title": "Presence of extra elements",
+          "description": "Your submission contains elements that are not described in the problem statement. Please revise your model to remove these unnecessary elements.",
+          "credits": 0,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 18,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000253087007,
+          "title": "Connection of diagram elements",
+          "description": "All diagram elements in your submission are connected. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 18,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000253087008,
+          "title": "Naming of tasks",
+          "description": "All tasks in your submission are named in the 'Verb Object'-format. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 18,
+          "element_ids": [
+            "574b12b9-a08e-4b1b-8d30-0da8397879ac",
+            "cfb14ee2-6ea3-417b-9cf3-34a67324fb5c",
+            "7ceb1b2d-57b8-41a3-a4db-6905518210b2",
+            "ce728058-f3e9-488d-84ea-601a716a8a48",
+            "fb838148-0cb2-4726-8b6e-59bf9caa58a4",
+            "2ea2ab55-504e-47ff-beb0-2443333cf304",
+            "d0945ace-074c-4d56-bc33-c77d628a3008"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000253087009,
+          "title": "Connection of elements in different pools",
+          "description": "Your submission does not contain sequence flows that connect elements in two different pools. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 18,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        }
+    ],
+    "meta": {}
+}

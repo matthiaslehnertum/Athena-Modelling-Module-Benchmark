@@ -1,0 +1,159 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+          "id": 1707001845964000,
+          "title": "Missing Elements",
+          "description": "Your model is missing some elements described in the problem statement. Specifically, the 'Loan Applicant' and 'Credit Institute' collaboration partners are not present. Instead, you have 'Car Buyer' and 'Car Manufacturer'. Please ensure to include all elements from the problem statement.",
+          "credits": 0,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 31,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707001845964001,
+          "title": "Exclusive Gateway Outgoing Flows",
+          "description": "You have correctly labeled the outgoing flows from the exclusive gateway 'Standard terms applicable?' with 'yes' and 'no'. However, the exclusive gateway with id 'id-28' has more than one outgoing flow but they are not labeled. Please ensure to label all outgoing flows from exclusive gateways.",
+          "credits": 0.5,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 31,
+          "element_ids": [
+            "5e77b6f2-6220-4281-9576-07f437c2a696",
+            "baa92e38-2b3c-41a7-b496-fc6146df1652"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707001845964002,
+          "title": "Start Event",
+          "description": "Your model correctly includes a start event 'Credit request received'. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 31,
+          "element_ids": [
+            "c572e2ea-c849-4906-a994-d3686a271d3d"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707001845964003,
+          "title": "End Event",
+          "description": "Your model correctly includes end events. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 31,
+          "element_ids": [
+            "74f5ac39-c077-41e1-af9c-6a40f3790a61",
+            "6780331b-2906-451e-801f-f59fa28a2d6b"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707001845964004,
+          "title": "Activity Order",
+          "description": "The order of activities in your model does not match the order in the problem statement. Please ensure to follow the order of activities as described in the problem statement.",
+          "credits": 0,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 31,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707001845964005,
+          "title": "Pools and Lanes",
+          "description": "You have correctly labeled all pools and lanes in your model. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 31,
+          "element_ids": [
+            "255ff389-b33e-4816-b26b-5389f2cab06e",
+            "98b1bf28-a4f8-4408-8e49-c4088fb46f76",
+            "136e9f4c-9f7d-4b3f-8b6e-ed1ef5c5c2d2",
+            "8e3c755a-f0bf-428e-a079-2005ed251931"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707001845964006,
+          "title": "Extra Elements",
+          "description": "Your model contains elements that are not described in the problem statement. Please ensure to only include elements that are described in the problem statement.",
+          "credits": 0,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 31,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707001845964007,
+          "title": "Diagram Elements Connection",
+          "description": "All diagram elements in your model are correctly connected. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 31,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707001845964008,
+          "title": "Task Naming",
+          "description": "All tasks in your model are correctly named in the 'Verb Object'-format. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 31,
+          "element_ids": [
+            "56587a60-0d19-4b15-80c7-4927a7393692",
+            "0714b1fd-4489-431c-81ce-6a4bce65eebe",
+            "2a8532a2-061a-41a3-a654-faa389f3b2c9",
+            "b0f0b1f1-7791-4122-b323-35bfb9c9eedc",
+            "698f15ea-c4e0-4276-a45a-86bde5f839e6",
+            "735aa7ae-ea3d-4d73-a3df-6e6bcfbd3e04",
+            "2d2897bd-a9a0-4025-859f-08a22cb44070",
+            "ab9f6593-bd25-4c94-9ca7-e91af800f48e"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707001845964009,
+          "title": "Sequence Flows",
+          "description": "Your model correctly does not have any sequence flows connecting elements in two different pools. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 31,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        }
+    ],
+    "meta": {}
+}

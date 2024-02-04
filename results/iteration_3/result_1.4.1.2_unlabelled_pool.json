@@ -1,0 +1,117 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 710,
+            "title": "Elements in the Problem Statement",
+            "description": "All elements described in the problem statement are present in your submission. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": []
+        },
+        {
+            "id": 711,
+            "title": "Outgoing Flows from Exclusive Gateway",
+            "description": "You have correctly labeled the outgoing flows from the exclusive gateway. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": []
+        },
+        {
+            "id": 712,
+            "title": "Start-Event Presence",
+            "description": "Your model includes a start-event, which is a crucial part of any BPMN diagram. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": []
+        },
+        {
+            "id": 713,
+            "title": "End-Event Presence",
+            "description": "Your model includes an end-event, which is necessary for completing any process. Good work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": []
+        },
+        {
+            "id": 664,
+            "title": "Order of activities",
+            "description": "The order of activities in your submission matches the problem statement. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 10,
+            "elementIds": []
+        },
+        {
+            "id": 715,
+            "title": "Labeling of Pools and Swimlanes",
+            "description": "Not all pools and swimlanes in your model are labeled. Remember, labeling is important for clarity and understanding of the process.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": []
+        },
+        {
+            "id": 716,
+            "title": "Presence of Extra Elements",
+            "description": "Your model does not contain any extra elements that are not described in the problem statement. Good job on sticking to the requirements!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": []
+        },
+        {
+            "id": 717,
+            "title": "Connection of Diagram Elements",
+            "description": "All elements in your diagram are connected correctly. This is crucial for the flow of the process. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": []
+        },
+        {
+            "id": 718,
+            "title": "Task Naming",
+            "description": "All tasks in your model are named in the 'Verb Object'-format. This is a good practice for clarity and understanding. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": []
+        },
+        {
+            "id": 719,
+            "title": "Sequence Flows Between Pools",
+            "description": "Your model correctly does not have any sequence flows connecting elements in two different pools. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": []
+        }
+    ],
+    "meta": {}
+}

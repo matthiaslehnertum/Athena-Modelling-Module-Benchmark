@@ -1,0 +1,169 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+          "id": 1707000428232000,
+          "title": "Presence of all elements",
+          "description": "All elements described in the problem statement are present in your submission. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 20,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000428232001,
+          "title": "Labeling of outgoing flows from exclusive gateway",
+          "description": "You have correctly labeled the outgoing flows from the exclusive gateway. Keep it up!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 20,
+          "element_ids": [
+            "ac9515eb-d207-4952-b94a-15c159271f40"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000428232002,
+          "title": "Presence of start-event",
+          "description": "Your model includes a start-event, which is a good practice in BPMN modelling. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 20,
+          "element_ids": [
+            "bb83db6f-1a15-431c-820b-97b5029e7eeb"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000428232003,
+          "title": "Presence of end-event",
+          "description": "Your model includes an end-event, which is a good practice in BPMN modelling. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 20,
+          "element_ids": [
+            "acd41fe0-ed14-43bb-bc5f-be44496582a7",
+            "ba5315ab-896e-4f45-ba1c-5be8ce8b955a"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000428232004,
+          "title": "Order of activities",
+          "description": "The order of activities in your submission does not match the problem statement. Please revise your model to ensure the activities follow the correct sequence.",
+          "credits": 0,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 20,
+          "element_ids": [
+            "e33fa3b8-5f29-4e97-9ea0-65cce5fad550",
+            "29262b8f-2f26-4983-979b-7cb4fd27586f",
+            "069d279b-a6ff-4f95-b53e-5d3dc07143c2",
+            "7ecd1576-f8a9-4410-bb66-9071dde59fde",
+            "2c2fb045-6e27-4865-afb4-3467fc3ed9df",
+            "29df1b37-9dcf-498c-8ffa-e36ea7bb019c",
+            "552e7e8b-1082-4824-9e75-3006aa84e321",
+            "a6504b7e-b9d1-49f8-891b-f59895e5cc1a"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000428232005,
+          "title": "Labeling of pools and lanes",
+          "description": "You have correctly labeled all pools and lanes in your model. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 20,
+          "element_ids": [
+            "5106effe-55aa-4d8d-9afb-5d99cd00bc56",
+            "cc479a02-d466-4e3f-b7a7-c8ea663337e3",
+            "d3c07ea2-2dd8-408b-b3e5-ec78b82df56d",
+            "0b543497-24f1-4557-b786-54f26bf9aaec"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000428232006,
+          "title": "Presence of extra elements",
+          "description": "Your model contains elements that are not described in the problem statement. Please revise your model to remove these unnecessary elements.",
+          "credits": 0,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 20,
+          "element_ids": [
+            "eda05148-f8fb-4bb6-b08b-6bccd3182fff"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000428232007,
+          "title": "Connection of diagram elements",
+          "description": "All diagram elements in your model are connected. This is a good practice in BPMN modelling. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 20,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000428232008,
+          "title": "Naming of tasks",
+          "description": "All tasks in your model are named in the 'Verb Object'-format. This is a good practice in BPMN modelling. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 20,
+          "element_ids": [
+            "e33fa3b8-5f29-4e97-9ea0-65cce5fad550",
+            "29262b8f-2f26-4983-979b-7cb4fd27586f",
+            "069d279b-a6ff-4f95-b53e-5d3dc07143c2",
+            "7ecd1576-f8a9-4410-bb66-9071dde59fde",
+            "2c2fb045-6e27-4865-afb4-3467fc3ed9df",
+            "29df1b37-9dcf-498c-8ffa-e36ea7bb019c",
+            "552e7e8b-1082-4824-9e75-3006aa84e321",
+            "a6504b7e-b9d1-49f8-891b-f59895e5cc1a"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707000428232009,
+          "title": "Connection of elements in different pools",
+          "description": "Your model does not contain sequence flows that connect elements in two different pools. This is a good practice in BPMN modelling. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 20,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        }
+    ],
+    "meta": {}
+}

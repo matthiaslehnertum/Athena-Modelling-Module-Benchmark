@@ -1,0 +1,151 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+          "id": 1706997261623000,
+          "title": "Missing Elements",
+          "description": "Your model is missing the 'Prepare contract' task. Please ensure all elements from the problem statement are included in your model.",
+          "credits": 0,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 8,
+          "element_ids": [
+            "e975fb67-ccc1-4373-b214-d3e8742930aa"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1706997261623001,
+          "title": "Exclusive Gateway Outgoing Flows",
+          "description": "Your model correctly labels the outgoing flows from the exclusive gateway 'Standard terms applicable?'. However, the second exclusive gateway does not have any labels. Please ensure all outgoing flows from exclusive gateways are labeled.",
+          "credits": 0.5,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 8,
+          "element_ids": [
+            "3a4b3e22-b85a-4e38-bfe5-af20a07e2c1d",
+            "ddc5e44f-1da7-4f0d-a30b-fe8d5fe09016"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1706997261623002,
+          "title": "Start and End Events",
+          "description": "Your model correctly includes start and end events for both the 'Loan Applicant' and 'Credit Institute' processes.",
+          "credits": 2,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 8,
+          "element_ids": [
+            "809161d7-9487-41fa-876a-55fa7073f03c",
+            "d6140857-eb3c-4e87-afdd-c5a4b04da4da",
+            "2b6d86cf-e25e-4c50-97e3-3c7427cb5664",
+            "15a34a16-5c63-410d-8caa-8c8ad0f734ad"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1706997261623003,
+          "title": "Activity Order",
+          "description": "The order of activities in your model does not match the problem statement. For example, the 'Prepare contract' task is missing and the 'Send quote' task should be the last task in the 'Credit Institute' process. Please revise the order of activities to match the problem statement.",
+          "credits": 0,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 8,
+          "element_ids": [
+            "57be7ebb-099e-47ec-bf5f-2d728437d987",
+            "e975fb67-ccc1-4373-b214-d3e8742930aa"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1706997261623004,
+          "title": "Pool and Swimlane Labels",
+          "description": "Your model correctly labels the pools for 'Loan Applicant' and 'Credit Institute'. However, there are no swimlanes in your model. Please ensure all pools and swimlanes are labeled.",
+          "credits": 0.5,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 8,
+          "element_ids": [
+            "29930ae8-3251-43ee-8c34-39563a6d153b",
+            "a4002f4c-566f-4865-8606-c6bb5b7b67c9"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1706997261623005,
+          "title": "Extra Elements",
+          "description": "Your model does not contain any extra elements that are not described in the problem statement. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 8,
+          "element_ids": [
+            "57be7ebb-099e-47ec-bf5f-2d728437d987",
+            "e975fb67-ccc1-4373-b214-d3e8742930aa"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1706997261623006,
+          "title": "Diagram Element Connections",
+          "description": "All elements in your model are correctly connected. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 8,
+          "element_ids": [
+            "57be7ebb-099e-47ec-bf5f-2d728437d987",
+            "e975fb67-ccc1-4373-b214-d3e8742930aa"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1706997261623007,
+          "title": "Task Naming",
+          "description": "Most tasks in your model are correctly named in the 'Verb Object' format. However, the task with id 'id-38' is missing a name. Please ensure all tasks are named in the 'Verb Object' format.",
+          "credits": 0.5,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 8,
+          "element_ids": [
+            "763a122c-a3a5-406d-b391-5c1392211d95"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1706997261623008,
+          "title": "Sequence Flows Between Pools",
+          "description": "Your model correctly uses message flows instead of sequence flows to connect elements in different pools. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 8,
+          "element_ids": [
+            "a4002f4c-566f-4865-8606-c6bb5b7b67c9",
+            "aec45998-06bb-4213-a615-8e512c05a855"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        }
+    ],
+    "meta": {}
+}

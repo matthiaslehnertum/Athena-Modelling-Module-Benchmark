@@ -1,0 +1,139 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 790,
+            "title": "Missing Elements",
+            "description": "Your model is missing some elements described in the problem statement. Specifically, the 'Loan Provider' role within the 'Credit Institute' is not represented. Make sure to include all roles and tasks in your model.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": []
+        },
+        {
+            "id": 791,
+            "title": "Exclusive Gateway Outgoing Flows",
+            "description": "Good job on labeling the outgoing flows from the exclusive gateway 'Standard terms applicable?'. However, the other exclusive gateway does not have labeled outgoing flows. Remember to label all outgoing flows from exclusive gateways for clarity.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": [
+                "8f59d23b-53ec-4537-a701-5a2e1139e810"
+            ]
+        },
+        {
+            "id": 792,
+            "title": "Start Event",
+            "description": "Well done on including a start event in your model. This is crucial for indicating where the process begins.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": [
+                "9d095727-8927-49fc-b042-d670cd02391e"
+            ]
+        },
+        {
+            "id": 793,
+            "title": "End Event",
+            "description": "Good job on including end events in your model. This is important for indicating where the process ends.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": [
+                "4761210f-1653-46e3-9b4b-029bbab76dcf",
+                "30afa74e-6fbc-4df0-848a-bf5f0fefb455"
+            ]
+        },
+        {
+            "id": 794,
+            "title": "Activity Order",
+            "description": "The order of activities in your model does not match the problem statement. Make sure to arrange the activities in the correct sequence as per the problem statement.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": []
+        },
+        {
+            "id": 795,
+            "title": "Pools and Swimlanes",
+            "description": "Good job on labeling all pools and swimlanes. This helps in understanding the roles and responsibilities in the process.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": [
+                "1388df13-17a0-4a38-8dcf-5cfebb2b1220",
+                "1f767279-d12d-48a6-9da2-c4fd76e37c6d"
+            ]
+        },
+        {
+            "id": 796,
+            "title": "Extra Elements",
+            "description": "Your model contains elements that are not described in the problem statement. Make sure to only include elements that are relevant to the problem statement.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": []
+        },
+        {
+            "id": 797,
+            "title": "Diagram Connectivity",
+            "description": "All elements in your diagram are connected properly. Good job on maintaining the flow of the process.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": []
+        },
+        {
+            "id": 798,
+            "title": "Task Naming",
+            "description": "All tasks are named in the 'Verb Object'-format. This is good practice as it clearly describes what each task involves.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": [
+                "23c08c23-b52c-4e24-bcdf-9b9099ee8294",
+                "3ec226fa-1f66-4fa5-a86f-533c5fbd7b6a",
+                "12439426-43cb-4043-a5c6-41ef6669198c",
+                "5929360f-302d-4679-8183-91c58d9ae975",
+                "0da1bb49-99b7-4cc3-9ffe-b8e97f87c3c5",
+                "9386b844-4231-45fb-b782-f9e6dbe7a380",
+                "321e9dd1-9d3b-4f5d-9846-f1e795c0ded2",
+                "a926f85b-e8c9-40c0-b118-22cf99321541"
+            ]
+        },
+        {
+            "id": 799,
+            "title": "Inter-Pool Connections",
+            "description": "Your model contains sequence flows that connect elements in two different pools. Remember, sequence flows should not cross pool boundaries. Use message flows instead.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 23,
+            "elementIds": [
+                "55515205-c531-47de-90d5-fef1ecb6690c",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        }
+    ],
+    "meta": {}
+}

@@ -1,0 +1,128 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 690,
+            "title": "Presence of all elements",
+            "description": "All elements described in the problem statement are present in your submission. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": []
+        },
+        {
+            "id": 691,
+            "title": "Labeling of outgoing flows from exclusive gateway",
+            "description": "You have correctly labeled the outgoing flows from the exclusive gateway. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": [
+                "b942f12b-a7fa-48fc-a327-f7dde0790310"
+            ]
+        },
+        {
+            "id": 692,
+            "title": "Presence of start-event",
+            "description": "Your model correctly includes a start-event. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": [
+                "ac8cbf34-6880-4c30-b96a-c9c320fb8e74",
+                "ba8c270c-ad77-4bd0-be7f-bbbd3ce934c8"
+            ]
+        },
+        {
+            "id": 693,
+            "title": "Presence of end-event",
+            "description": "Your model correctly includes an end-event. Good work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": [
+                "f70f17d9-e8a8-4e74-bc12-0330ca617bb0",
+                "498b5df1-1728-465e-9d6d-81e84a1b0072"
+            ]
+        },
+        {
+            "id": 694,
+            "title": "Order of activities",
+            "description": "The order of activities in your submission matches the problem statement. Excellent!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": []
+        },
+        {
+            "id": 695,
+            "title": "Labeling of pools and swimlanes",
+            "description": "You have correctly labeled all pools and swimlanes. Keep up the good work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": [
+                "30d8e956-e4f1-46fd-b546-90b7c3ff40a2",
+                "82a1a462-1382-4869-948e-803b97cda6f0"
+            ]
+        },
+        {
+            "id": 696,
+            "title": "Presence of extra elements",
+            "description": "Your submission does not contain any extra elements that are not described in the problem statement. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": []
+        },
+        {
+            "id": 697,
+            "title": "Connection of diagram elements",
+            "description": "All diagram elements in your submission are connected. Great job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": []
+        },
+        {
+            "id": 698,
+            "title": "Naming of tasks",
+            "description": "All tasks in your submission are named in the 'Verb Object'-format. Excellent work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": []
+        },
+        {
+            "id": 699,
+            "title": "Connection of elements in different pools",
+            "description": "Your submission correctly does not have any sequence flows connecting elements in two different pools. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": []
+        }
+    ],
+    "meta": {}
+}

@@ -1,0 +1,117 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 600,
+            "title": "Missing Elements",
+            "description": "Your model is missing some elements described in the problem statement. Make sure to include all the necessary elements.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": []
+        },
+        {
+            "id": 601,
+            "title": "Exclusive Gateway Outgoing Flows",
+            "description": "You have correctly labeled the outgoing flows from the exclusive gateway. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": []
+        },
+        {
+            "id": 602,
+            "title": "Start Event",
+            "description": "Your model includes a start event. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": []
+        },
+        {
+            "id": 603,
+            "title": "End Event",
+            "description": "Your model includes an end event. Good work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": []
+        },
+        {
+            "id": 604,
+            "title": "Activity Order",
+            "description": "The order of activities in your model does not match the problem statement. Please revise your model to ensure the activities follow the correct sequence.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": []
+        },
+        {
+            "id": 605,
+            "title": "Pool and Swimlane Labels",
+            "description": "You have correctly labeled all pools and swimlanes. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": []
+        },
+        {
+            "id": 606,
+            "title": "Extra Elements",
+            "description": "Your model contains elements not described in the problem statement. Please remove these to avoid confusion.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": []
+        },
+        {
+            "id": 607,
+            "title": "Diagram Element Connections",
+            "description": "All diagram elements in your model are connected. Excellent!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": []
+        },
+        {
+            "id": 608,
+            "title": "Task Naming",
+            "description": "All tasks in your model are named in the 'Verb Object' format. This is a good practice for clarity and understanding. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": []
+        },
+        {
+            "id": 609,
+            "title": "Sequence Flows Between Pools",
+            "description": "Your model contains sequence flows that connect elements in two different pools. This is not allowed in BPMN. Please revise your model to correct this.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": []
+        }
+    ],
+    "meta": {}
+}

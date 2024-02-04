@@ -1,0 +1,182 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 780,
+            "title": "Elements in the Problem Statement",
+            "description": "All elements described in the problem statement are present in your submission. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": [
+                "1a3dcd0c-491d-414f-bacb-c8f4a37122b8",
+                "15aa705c-163e-4b6e-857e-b0aa3adf021f",
+                "22ce7e5e-293f-400d-adbd-6d44b199c052",
+                "6b375c93-2b31-44cc-9474-b722b5f99142",
+                "ec1602e7-4a0e-410e-b0b6-5887b98a4a40",
+                "e7e1239c-4d16-447d-9dbc-f925d10c72ba",
+                "52833bed-02bf-495b-a0ef-d94a2252af3d",
+                "ff2ccac9-1634-4973-9114-858f3ae20279",
+                "5c8cafd9-71ff-4724-a354-5cb6b785d8e2",
+                "7b44ff3c-bb63-4eb7-83c3-af480d1f42d3",
+                "daa05b7a-1d52-46e7-a71f-a2157cd92792",
+                "64805b4e-abe9-4d9b-a0f2-9811178445a0",
+                "743781e4-02a9-4f9a-bcff-111e0e72e817",
+                "a94a0bf1-a01d-4c07-82dc-fe774b0f5fa8",
+                "3e4f161a-a88a-4f61-9417-006add905d47",
+                "fa9d11ba-28a2-4eb4-9736-78f9fa7395c4"
+            ]
+        },
+        {
+            "id": 781,
+            "title": "Outgoing Flows from Exclusive Gateway",
+            "description": "You have correctly labeled the outgoing flows from the exclusive gateway. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": [
+                "66fe2424-b0cc-4e50-988c-f0910dd92aa6",
+                "70b979b6-32e9-45c7-be45-518507652a30"
+            ]
+        },
+        {
+            "id": 782,
+            "title": "Start-Event Presence",
+            "description": "Your model includes a start-event, which is a crucial part of any process. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": [
+                "daa05b7a-1d52-46e7-a71f-a2157cd92792"
+            ]
+        },
+        {
+            "id": 783,
+            "title": "End-Event Presence",
+            "description": "Your model includes an end-event, which is necessary for completing any process. Good work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": [
+                "6b375c93-2b31-44cc-9474-b722b5f99142",
+                "fa9d11ba-28a2-4eb4-9736-78f9fa7395c4"
+            ]
+        },
+        {
+            "id": 784,
+            "title": "Order of Activities",
+            "description": "The order of activities in your submission does not match the problem statement. Please revise your model to ensure the activities follow the correct sequence.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": [
+                "1a3dcd0c-491d-414f-bacb-c8f4a37122b8",
+                "15aa705c-163e-4b6e-857e-b0aa3adf021f",
+                "ec1602e7-4a0e-410e-b0b6-5887b98a4a40",
+                "e7e1239c-4d16-447d-9dbc-f925d10c72ba",
+                "52833bed-02bf-495b-a0ef-d94a2252af3d",
+                "ff2ccac9-1634-4973-9114-858f3ae20279",
+                "5c8cafd9-71ff-4724-a354-5cb6b785d8e2",
+                "7b44ff3c-bb63-4eb7-83c3-af480d1f42d3"
+            ]
+        },
+        {
+            "id": 785,
+            "title": "Labeling of Pools and Swimlanes",
+            "description": "You have correctly labeled all pools and swimlanes in your model. This helps in understanding the roles and responsibilities in the process. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": [
+                "65d5c40c-5584-4898-b2c9-03df0e2d6a20",
+                "95c5121b-ca80-4cb7-b922-03c7b1090493"
+            ]
+        },
+        {
+            "id": 786,
+            "title": "Presence of Extra Elements",
+            "description": "Your submission does not contain any extra elements that are not described in the problem statement. This shows your understanding of the problem. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": []
+        },
+        {
+            "id": 787,
+            "title": "Connection of Diagram Elements",
+            "description": "All elements in your diagram are connected correctly. This is crucial for the flow of the process. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": [
+                "1a3dcd0c-491d-414f-bacb-c8f4a37122b8",
+                "15aa705c-163e-4b6e-857e-b0aa3adf021f",
+                "22ce7e5e-293f-400d-adbd-6d44b199c052",
+                "6b375c93-2b31-44cc-9474-b722b5f99142",
+                "ec1602e7-4a0e-410e-b0b6-5887b98a4a40",
+                "e7e1239c-4d16-447d-9dbc-f925d10c72ba",
+                "52833bed-02bf-495b-a0ef-d94a2252af3d",
+                "ff2ccac9-1634-4973-9114-858f3ae20279",
+                "5c8cafd9-71ff-4724-a354-5cb6b785d8e2",
+                "7b44ff3c-bb63-4eb7-83c3-af480d1f42d3",
+                "daa05b7a-1d52-46e7-a71f-a2157cd92792",
+                "64805b4e-abe9-4d9b-a0f2-9811178445a0",
+                "743781e4-02a9-4f9a-bcff-111e0e72e817",
+                "a94a0bf1-a01d-4c07-82dc-fe774b0f5fa8",
+                "3e4f161a-a88a-4f61-9417-006add905d47",
+                "fa9d11ba-28a2-4eb4-9736-78f9fa7395c4"
+            ]
+        },
+        {
+            "id": 788,
+            "title": "Task Naming",
+            "description": "All tasks in your model are named in the 'Verb Object'-format. This is a good practice as it makes the tasks self-explanatory. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": [
+                "1a3dcd0c-491d-414f-bacb-c8f4a37122b8",
+                "15aa705c-163e-4b6e-857e-b0aa3adf021f",
+                "ec1602e7-4a0e-410e-b0b6-5887b98a4a40",
+                "e7e1239c-4d16-447d-9dbc-f925d10c72ba",
+                "52833bed-02bf-495b-a0ef-d94a2252af3d",
+                "ff2ccac9-1634-4973-9114-858f3ae20279",
+                "5c8cafd9-71ff-4724-a354-5cb6b785d8e2",
+                "7b44ff3c-bb63-4eb7-83c3-af480d1f42d3"
+            ]
+        },
+        {
+            "id": 789,
+            "title": "Sequence Flows Between Pools",
+            "description": "Your model does not have any sequence flows connecting elements in two different pools. This is a good practice as it maintains the separation of responsibilities. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": [
+                "ab8fd96b-50c2-4c06-a8e3-2acb5354ee1f"
+            ]
+        }
+    ],
+    "meta": {}
+}
