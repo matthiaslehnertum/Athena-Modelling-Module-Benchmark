@@ -1,0 +1,160 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data":[
+        {
+          "id": 1707082514699000,
+          "title": "Correct Diagram Elements",
+          "description": "All elements described in the problem statement are present in your submission. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 33,
+          "element_ids": [
+            "1c9bcd94-ea53-474c-945d-be67e7b33e19",
+            "676748be-d10d-4a9b-ba6e-fd7fbc8ae86a",
+            "fd16f66a-f2e0-4fda-a2c6-a873a11e30c5",
+            "2b8dd181-530b-4207-a206-d55b6e2646b3",
+            "799236a0-a2b9-41fc-b81b-97a27572c4b8",
+            "a445bc0f-f6c7-4c41-8edc-68c541ad93f8",
+            "b88b1b87-67b8-475f-b8fa-a5c400caaba7",
+            "175589a0-2f45-4950-9e19-4dd2deb07f04",
+            "4ae043da-549d-49e8-84ea-7efd88997461",
+            "c3f9ba40-b2dc-49e3-be8a-a0639fe7a9f7",
+            "cf36f1fe-bc74-44cb-800e-a264820f91f0",
+            "d4ba45b6-4f06-44f9-986b-a2946b85fc4a",
+            "61baf83f-1309-43f2-84c9-494a7c068f9c",
+            "c336543a-64b0-4b23-a365-329c3963ea5d",
+            "e7b8e83a-6461-40e4-bb0d-99cb56a42b14",
+            "5dab9d44-dbd0-453a-bcf6-7316a9a3b3bb"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082514699001,
+          "title": "Gateway and Flow Labels",
+          "description": "Your gateway 'Standard terms applicable?' is correctly labelled, and the outgoing flows are also labelled. However, other gateways and flows are missing labels. Remember to label all gateways and flows for clarity.",
+          "credits": 0.5,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 33,
+          "element_ids": [
+            "61baf83f-1309-43f2-84c9-494a7c068f9c",
+            "66fe2424-b0cc-4e50-988c-f0910dd92aa6",
+            "70b979b6-32e9-45c7-be45-518507652a30",
+            "d4ba45b6-4f06-44f9-986b-a2946b85fc4a",
+            "c336543a-64b0-4b23-a365-329c3963ea5d",
+            "e7b8e83a-6461-40e4-bb0d-99cb56a42b14"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082514699002,
+          "title": "Start and End Events",
+          "description": "Your diagram correctly includes a start event 'Credit request received' and end events. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 33,
+          "element_ids": [
+            "cf36f1fe-bc74-44cb-800e-a264820f91f0",
+            "2b8dd181-530b-4207-a206-d55b6e2646b3",
+            "5dab9d44-dbd0-453a-bcf6-7316a9a3b3bb"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082514699003,
+          "title": "Activity Order",
+          "description": "The activities in your diagram are not in the same order as described in the problem statement. Make sure to follow the order of the problem statement for accuracy.",
+          "credits": 0.5,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 33,
+          "element_ids": [
+            "1c9bcd94-ea53-474c-945d-be67e7b33e19",
+            "676748be-d10d-4a9b-ba6e-fd7fbc8ae86a",
+            "799236a0-a2b9-41fc-b81b-97a27572c4b8",
+            "a445bc0f-f6c7-4c41-8edc-68c541ad93f8",
+            "b88b1b87-67b8-475f-b8fa-a5c400caaba7",
+            "175589a0-2f45-4950-9e19-4dd2deb07f04",
+            "4ae043da-549d-49e8-84ea-7efd88997461",
+            "c3f9ba40-b2dc-49e3-be8a-a0639fe7a9f7"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082514699004,
+          "title": "Labelled Pools and Lanes",
+          "description": "Your pools and lanes are correctly labelled as 'Loan Applicant' and 'Credit Institute'. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 33,
+          "element_ids": [
+            "efd4e427-f205-41eb-a30d-a736f61bff15",
+            "5c2945f4-aebf-4a61-8e4f-357f945fe3a1"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082514699005,
+          "title": "No Extra Elements",
+          "description": "Your submission does not contain elements that are not described in the problem statement. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 33,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082514699006,
+          "title": "Connected Elements",
+          "description": "All elements in your diagram are connected correctly. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 33,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082514699007,
+          "title": "Activity Naming",
+          "description": "Your activities are named in the 'Verb Object'-format. However, some activities such as 'Assess risk' could be more specific, for example 'Assess credit risk'.",
+          "credits": 0.5,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 33,
+          "element_ids": [
+            "1c9bcd94-ea53-474c-945d-be67e7b33e19",
+            "676748be-d10d-4a9b-ba6e-fd7fbc8ae86a",
+            "799236a0-a2b9-41fc-b81b-97a27572c4b8",
+            "a445bc0f-f6c7-4c41-8edc-68c541ad93f8",
+            "b88b1b87-67b8-475f-b8fa-a5c400caaba7",
+            "175589a0-2f45-4950-9e19-4dd2deb07f04",
+            "4ae043da-549d-49e8-84ea-7efd88997461",
+            "c3f9ba40-b2dc-49e3-be8a-a0639fe7a9f7"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        }
+    ],
+    "meta": {}
+}

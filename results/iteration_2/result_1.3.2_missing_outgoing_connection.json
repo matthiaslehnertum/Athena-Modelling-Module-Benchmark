@@ -1,0 +1,117 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1758,
+            "title": "Correct Diagram Elements",
+            "description": "All elements described in the problem statement are present in your submission. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": []
+        },
+        {
+            "id": 1759,
+            "title": "Gateway Labels",
+            "description": "Your gateway labels are correct and the outgoing flows are also labelled. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": []
+        },
+        {
+            "id": 1760,
+            "title": "Start Event",
+            "description": "You have correctly included a start event in your submission. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": []
+        },
+        {
+            "id": 1761,
+            "title": "End Event",
+            "description": "You have correctly included an end event in your submission. Good work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": []
+        },
+        {
+            "id": 1762,
+            "title": "Activity Order",
+            "description": "The activities in your diagram are in the same order as described in the problem statement. Excellent!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": []
+        },
+        {
+            "id": 1763,
+            "title": "Pool and Lane Labels",
+            "description": "Your pools and lanes are correctly labelled. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": []
+        },
+        {
+            "id": 1764,
+            "title": "No Extra Elements",
+            "description": "Your submission does not contain elements that are not described in the problem statement. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": []
+        },
+        {
+            "id": 1765,
+            "title": "Element Connections",
+            "description": "All elements in your submission are connected correctly. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": []
+        },
+        {
+            "id": 1766,
+            "title": "Activity Naming",
+            "description": "Your activities are named in the 'Verb Object'-format where a name consists of a verb followed by the object. Excellent!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": []
+        },
+        {
+            "id": 1767,
+            "title": "Overall Submission",
+            "description": "Your overall submission is excellent. You have followed the problem statement accurately and created a well-structured BPMN diagram. Keep up the good work!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 13,
+            "elementIds": []
+        }
+    ],
+    "meta": {}
+}

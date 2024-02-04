@@ -1,0 +1,104 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1854,
+            "title": "Correct Diagram Elements",
+            "description": "All elements described in the problem statement are present in your submission. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 24,
+            "elementIds": []
+        },
+        {
+            "id": 1855,
+            "title": "Gateway and Flow Labels",
+            "description": "Your gateway 'Standard terms applicable?' is correctly labelled, but the outgoing flows are not labelled. Please ensure to label all outgoing flows from a gateway.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 24,
+            "elementIds": [
+                "ae2d779e-3069-4274-9cd4-b48cc12e0180"
+            ]
+        },
+        {
+            "id": 1856,
+            "title": "Start and End Events",
+            "description": "Your submission correctly includes start and end events for both the Loan Applicant and the Credit Institute. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 24,
+            "elementIds": [
+                "9b6201ed-496a-4cae-89ae-946e879691e0",
+                "633b8311-4583-465d-bdda-4065a77a2789",
+                "be6c8b56-a7cc-4017-9d2a-16f367d37aee"
+            ]
+        },
+        {
+            "id": 1857,
+            "title": "Order of Activities",
+            "description": "The activities in your diagram are not in the same order as described in the problem statement. Please ensure to follow the order of activities as per the problem statement.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 24,
+            "elementIds": []
+        },
+        {
+            "id": 1858,
+            "title": "Labelled Pools and Lanes",
+            "description": "Your pools and lanes are correctly labelled as 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 24,
+            "elementIds": [
+                "34964581-f9b1-488f-b3b0-6c19705581d3",
+                "7dd1b864-e7c5-4c66-832f-87663b12e51c"
+            ]
+        },
+        {
+            "id": 1859,
+            "title": "No Extra Elements",
+            "description": "Your submission does not contain elements that are not described in the problem statement. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 24,
+            "elementIds": []
+        },
+        {
+            "id": 1860,
+            "title": "Connected Elements",
+            "description": "All elements in your submission are correctly connected. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 24,
+            "elementIds": []
+        },
+        {
+            "id": 1861,
+            "title": "Activity Naming",
+            "description": "Your activities are correctly named in the 'Verb Object'-format. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 24,
+            "elementIds": []
+        }
+    ],
+    "meta": {}
+}

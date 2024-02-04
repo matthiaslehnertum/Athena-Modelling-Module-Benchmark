@@ -1,0 +1,139 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1920,
+            "title": "Correct Elements",
+            "description": "You have correctly included all the elements described in the problem statement. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": [
+                "36fea81c-fa88-4c98-8320-d12521141485",
+                "57163fea-22ca-4927-8ef3-85961522e58f",
+                "b268b14f-ee6c-4386-904b-e3e8cf703785",
+                "e0282199-fa43-4fb6-b45e-2f84cba8f98e",
+                "1dbd31f9-1b60-4a3f-9e62-7ebaa7a79fb3",
+                "ae8f6ad6-20c3-4d68-8470-370368aff39d",
+                "a318113d-540e-470a-8570-483710bed885",
+                "65ed9d78-1e18-4b9c-915e-3ed83f57d577",
+                "eb600dac-790f-4a29-b227-af1a0d88e5b2",
+                "7a03fb82-9798-4a31-ab87-d9c70e238fd4",
+                "3f07a9bb-6780-4d75-a515-f818c11f2a73",
+                "1ff09fd9-534f-40ef-9fb6-f2a62e2d1add"
+            ]
+        },
+        {
+            "id": 1921,
+            "title": "Gateway Labels",
+            "description": "You have correctly labeled the gateway 'Standard terms applicable?' and its outgoing flows. However, the other gateways are missing labels. Remember to label all gateways and their outgoing flows for clarity.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": [
+                "a318113d-540e-470a-8570-483710bed885",
+                "ae8f6ad6-20c3-4d68-8470-370368aff39d",
+                "c890aef9-7825-40e0-a84c-6a7167c013a8",
+                "6cf8797b-576a-4883-9f49-40573d04d456"
+            ]
+        },
+        {
+            "id": 1922,
+            "title": "Start and End Events",
+            "description": "You have correctly included start and end events in your model. However, the end event in the 'Loan Applicant' process is missing a label. Please ensure to label all events for clarity.",
+            "credits": 0.8,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": [
+                "b268b14f-ee6c-4386-904b-e3e8cf703785",
+                "19fed707-c92c-4064-8da6-472dcd6608df",
+                "a2decd96-8238-4b06-a500-3076c42c2d4f"
+            ]
+        },
+        {
+            "id": 1923,
+            "title": "Order of Activities",
+            "description": "The order of activities in your model does not completely match the problem statement. The 'Consult secondary financial advisor' task is not mentioned in the problem statement and disrupts the correct order. Please revise your model to reflect the correct order of activities.",
+            "credits": 0.7,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": [
+                "7407df7e-f293-47eb-9b1e-2fc77fb14405"
+            ]
+        },
+        {
+            "id": 1924,
+            "title": "Labeling of Pools and Lanes",
+            "description": "You have correctly labeled the pools 'Loan Applicant' and 'Credit Institute'. However, the lanes within these pools are not labeled. Please label all pools and lanes for clarity.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": [
+                "982a490d-6975-43d6-b16f-95dfa4913259",
+                "b20a70ef-a5e1-4b42-8b8d-e78524a8d427"
+            ]
+        },
+        {
+            "id": 1925,
+            "title": "Unnecessary Elements",
+            "description": "Your model includes the task 'Consult secondary financial advisor', which is not mentioned in the problem statement. Please remove any elements not described in the problem statement.",
+            "credits": 0.8,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": [
+                "7407df7e-f293-47eb-9b1e-2fc77fb14405"
+            ]
+        },
+        {
+            "id": 1926,
+            "title": "Connection of Elements",
+            "description": "All elements in your model are correctly connected. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": [
+                "36fea81c-fa88-4c98-8320-d12521141485",
+                "57163fea-22ca-4927-8ef3-85961522e58f",
+                "b268b14f-ee6c-4386-904b-e3e8cf703785",
+                "e0282199-fa43-4fb6-b45e-2f84cba8f98e",
+                "1dbd31f9-1b60-4a3f-9e62-7ebaa7a79fb3",
+                "ae8f6ad6-20c3-4d68-8470-370368aff39d",
+                "a318113d-540e-470a-8570-483710bed885",
+                "65ed9d78-1e18-4b9c-915e-3ed83f57d577",
+                "eb600dac-790f-4a29-b227-af1a0d88e5b2",
+                "7a03fb82-9798-4a31-ab87-d9c70e238fd4",
+                "3f07a9bb-6780-4d75-a515-f818c11f2a73",
+                "1ff09fd9-534f-40ef-9fb6-f2a62e2d1add"
+            ]
+        },
+        {
+            "id": 1927,
+            "title": "Activity Naming",
+            "description": "Most of your activities are correctly named in the 'Verb Object'-format. However, the task 'Consult secondary financial advisor' does not follow this format. Please revise the names of your activities to follow the 'Verb Object'-format.",
+            "credits": 0.7,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 32,
+            "elementIds": [
+                "7407df7e-f293-47eb-9b1e-2fc77fb14405"
+            ]
+        }
+    ],
+    "meta": {}
+}

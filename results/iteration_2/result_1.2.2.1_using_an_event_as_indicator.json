@@ -1,0 +1,151 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1692,
+            "title": "Correct Start and End Events",
+            "description": "You have correctly included start and end events in your process models. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 5,
+            "elementIds": [
+                "8694e45f-13b7-4625-8444-d375cded368d",
+                "87f4fffd-d454-4fee-b3ba-ad787202dc7f",
+                "968ba73b-55ba-4c98-b3fb-d779cb7a86a3"
+            ]
+        },
+        {
+            "id": 1693,
+            "title": "Correct Use of Gateways",
+            "description": "Your use of the exclusive and parallel gateways is correct. However, remember to label all gateways and their outgoing flows for clarity.",
+            "credits": 0.8,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 5,
+            "elementIds": [
+                "f5e2a8b2-1bc9-4a5f-82ef-69c9041b96e3",
+                "74b5148c-c57c-4bfe-b110-e37d7cb951fa",
+                "977705a9-3428-4085-b64d-392fd05c6575",
+                "a0d4a29d-393c-488f-ae2a-0056a2512cda"
+            ]
+        },
+        {
+            "id": 1694,
+            "title": "Correct Labelling of Pools and Lanes",
+            "description": "You have correctly labelled the pools and lanes in your process models. This helps in understanding the roles of different participants in the process.",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 5,
+            "elementIds": [
+                "100b13b3-16e4-4490-8b7f-317661d8e352",
+                "89fc91b9-dce0-4f81-9909-6fd45f13c050",
+                "4298274c-2f0a-446e-988a-ca637b14d8d5",
+                "58437364-8ec0-44a7-a864-9c2ecac805d1"
+            ]
+        },
+        {
+            "id": 1695,
+            "title": "Correct Order of Activities",
+            "description": "The order of activities in your process models matches the problem statement. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 5,
+            "elementIds": [
+                "fe3d21ac-2553-4311-9e50-a4d84b97b2c2",
+                "0a1afcda-ba8e-4213-b31f-70802413568b",
+                "0c112b24-11d9-4675-9d7f-3cfee1f05c18",
+                "74b5148c-c57c-4bfe-b110-e37d7cb951fa",
+                "8ec09c83-d84d-4c60-acf2-9e5b5c724e6c",
+                "36fe0545-a3f1-486b-ba40-1c4ac0e7d97a",
+                "d71af183-2c80-44c7-9338-37bdda4a2d80",
+                "78825ee7-475b-4d1b-a61b-ac3ab53d2663",
+                "54b8a7d5-c5a2-48e4-ad07-d8044ebf204c",
+                "1edc994e-6f74-452b-bbdf-5f070104ab4c"
+            ]
+        },
+        {
+            "id": 1696,
+            "title": "Correct Use of Message Flows",
+            "description": "Your use of message flows between the Loan Applicant and the Credit Institute is correct. However, ensure that all message flows are labelled for clarity.",
+            "credits": 0.8,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 5,
+            "elementIds": [
+                "6de532b7-a596-4eb7-9bf6-2d1142978ce6",
+                "aec45998-06bb-4213-a615-8e512c05a855"
+            ]
+        },
+        {
+            "id": 1697,
+            "title": "Correct Use of Sequence Flows",
+            "description": "Your use of sequence flows is correct. However, ensure that all sequence flows are labelled for clarity.",
+            "credits": 0.8,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 5,
+            "elementIds": [
+                "4298274c-2f0a-446e-988a-ca637b14d8d5",
+                "a97515df-5432-4b41-a9c4-6c45c4e3a259",
+                "89fc91b9-dce0-4f81-9909-6fd45f13c050",
+                "73bb7dd9-4938-43e2-b218-5b0fc9e4bff1",
+                "0c74c706-95e2-4a4b-ad08-c218a236fad8",
+                "66fe2424-b0cc-4e50-988c-f0910dd92aa6",
+                "8263561f-d70e-4264-8e6e-6d545c9d4d57",
+                "2c669dc1-ec78-4ce9-af27-6fd58b5f4e17",
+                "3eae3c61-5acf-4687-95d0-c5e16bb689b2",
+                "c09d469a-0377-47f1-a2b5-6662f2afc0b1",
+                "a72d62b3-e113-4b90-bfd9-2480861d1186",
+                "70b979b6-32e9-45c7-be45-518507652a30",
+                "c6ac591f-51fd-4c6e-bdfa-ae74a029d73d",
+                "60e891d4-0604-45e4-b2c7-b6d6b9f72ba2",
+                "2bcae199-700f-44b9-93e1-2dacb6061bd8",
+                "b409934a-f4ad-4bcb-a157-4457c97e17fb"
+            ]
+        },
+        {
+            "id": 1698,
+            "title": "Correct Use of Activities",
+            "description": "Your use of activities is correct. However, ensure that all activities are labelled in the 'Verb Object'-format for clarity.",
+            "credits": 0.8,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 5,
+            "elementIds": [
+                "fe3d21ac-2553-4311-9e50-a4d84b97b2c2",
+                "1edc994e-6f74-452b-bbdf-5f070104ab4c",
+                "0c112b24-11d9-4675-9d7f-3cfee1f05c18",
+                "0a1afcda-ba8e-4213-b31f-70802413568b",
+                "8ec09c83-d84d-4c60-acf2-9e5b5c724e6c",
+                "78825ee7-475b-4d1b-a61b-ac3ab53d2663",
+                "36fe0545-a3f1-486b-ba40-1c4ac0e7d97a",
+                "d71af183-2c80-44c7-9338-37bdda4a2d80"
+            ]
+        },
+        {
+            "id": 1699,
+            "title": "Correct Use of Intermediate Catch Event",
+            "description": "Your use of the intermediate catch event is correct. However, ensure that it is labelled for clarity.",
+            "credits": 0.8,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 5,
+            "elementIds": [
+                "54b8a7d5-c5a2-48e4-ad07-d8044ebf204c"
+            ]
+        }
+    ],
+    "meta": {}
+}

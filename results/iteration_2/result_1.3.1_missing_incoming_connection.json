@@ -1,0 +1,125 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1750,
+            "title": "Correct Diagram Elements",
+            "description": "All elements described in the problem statement are present in your submission. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": []
+        },
+        {
+            "id": 1751,
+            "title": "Gateway Labels and Outgoing Flows",
+            "description": "Your gateway 'Standard terms applicable?' is correctly labelled and the outgoing flows are also labelled. However, the other gateways are not labelled. Please ensure to label all gateways and their outgoing flows.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": [
+                "84c9eb2c-3f7d-42ee-a284-f454ac29f390",
+                "2809fffe-5116-403e-8884-69dfd05e49fc",
+                "cb8c1390-7ea8-4b48-89cc-f922fdaf174e",
+                "86adf47b-8382-4e62-b126-2e6cc53af964"
+            ]
+        },
+        {
+            "id": 1752,
+            "title": "Start and End Events",
+            "description": "Your submission correctly includes start and end events for both the Loan Applicant and the Credit Institute. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": [
+                "e75b421d-0272-4429-8d87-1b6bbe1e122a",
+                "ad4c421e-a6dc-4c53-943c-b48a3d63d3f7",
+                "63b04097-86c7-4370-b8a7-8a20f9b8b5b8"
+            ]
+        },
+        {
+            "id": 1753,
+            "title": "Order of Activities",
+            "description": "The activities in your diagram are not in the same order as described in the problem statement. Please ensure to follow the order of activities as described in the problem statement.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": [
+                "046c1ffb-fa01-4391-8d48-b825f37e2717",
+                "e7d719ff-18ba-4a53-87e9-49c8ea41132a",
+                "46fbbde0-fe20-4a16-9aa4-10ace23c05b9",
+                "8829167f-27db-4fc4-a02d-cc8f5f731e9a",
+                "2be2d417-576a-4412-b0ed-68cc6585011c",
+                "2be9be89-9480-4314-b7e1-4593d5ce514d",
+                "8dbee129-dcf6-4338-81be-131e30c9dde2",
+                "a0e01851-6cc0-4e4b-916c-bc0029716ea7"
+            ]
+        },
+        {
+            "id": 1754,
+            "title": "Labelled Pools and Lanes",
+            "description": "Your pools and lanes are correctly labelled as 'Loan Applicant' and 'Credit Institute'. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": [
+                "d9f1c10a-9a99-4175-b5b8-6503f0f5518a",
+                "c4548693-a585-4298-a33a-2bdb939977fd"
+            ]
+        },
+        {
+            "id": 1755,
+            "title": "No Extra Elements",
+            "description": "Your submission does not contain elements that are not described in the problem statement. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": []
+        },
+        {
+            "id": 1756,
+            "title": "Connected Elements",
+            "description": "All elements in your submission are connected correctly. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": []
+        },
+        {
+            "id": 1757,
+            "title": "Activity Naming",
+            "description": "All activities in your diagram are named in the 'Verb Object'-format. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 12,
+            "elementIds": [
+                "046c1ffb-fa01-4391-8d48-b825f37e2717",
+                "e7d719ff-18ba-4a53-87e9-49c8ea41132a",
+                "46fbbde0-fe20-4a16-9aa4-10ace23c05b9",
+                "8829167f-27db-4fc4-a02d-cc8f5f731e9a",
+                "2be2d417-576a-4412-b0ed-68cc6585011c",
+                "2be9be89-9480-4314-b7e1-4593d5ce514d",
+                "8dbee129-dcf6-4338-81be-131e30c9dde2",
+                "a0e01851-6cc0-4e4b-916c-bc0029716ea7"
+            ]
+        }
+    ],
+    "meta": {}
+}

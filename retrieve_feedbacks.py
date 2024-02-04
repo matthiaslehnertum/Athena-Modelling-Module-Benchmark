@@ -248,10 +248,10 @@ course_id = 2
 exercise_title = "Process Modelling with BPMN: Obtaining a loan"
 max_points = 10
 bonus_points = 0
-grading_instructions = "For every correct diagram element, give 1 point."
+grading_instructions = "For every correct diagram element, give 1 point. 1. Only give full points if all elements described in the problem statement are present in the submission. 2. If a gateway has a label, ensure the outgoing flows are also labelled. 3. Make sure a start event is present in the student's submission. 4. Make sure an end event is in the student's submissions. 5. Make sure the activities in the diagram are in the same ordered as described in the problem statement. 6. Make sure pools and lanes are labelled. 7. Make sure the submission does not contain elements that are not described in the problem statement. 8. Make sure all elements are connected. 9. Make sure activities are named in the \"Verb Object\"-format where a name consists of a verb followed by the object."
 problem_statement = "Two collaboration partners are interacting with each other, the \"Loan Applicant\" and the \"Credit Institute\". The Loan Applicant sends a credit request to the Credit Institute. When a credit request is received, the Loan Provider within the Credit Institute reviews the request. The Loan Provider then checks if standard terms are applicable while the Loan Assessor of the Credit Institute assesses the risk. If the standard terms are applicable, the Loan Provider calculates terms, if they do not apply, the Loan Provider prepares special terms. After that, the Loan Provider prepares a contract. As soon as the Loan Assessor has assessed the risk and the Loan Provider has prepared a contract, the Loan Assessor sends a quote to the Loan Applicant and ends the process afterward. The Loan Applicant, upon receiving the quote then reviews the quote and ends its process afterward as well."
 example_solution = ""
-iteration = "iteration_1"
+iteration = "iteration_2"
 submissions = json.loads(exercise)
 
 cummulative_execution_time = 0

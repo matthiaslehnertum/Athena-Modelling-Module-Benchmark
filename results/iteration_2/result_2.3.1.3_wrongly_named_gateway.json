@@ -1,0 +1,157 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1896,
+            "title": "Correct Diagram Elements",
+            "description": "You have correctly included all the elements described in the problem statement. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "bfb73810-1996-4579-9ad3-f2752ae4d3d1",
+                "b9db8102-5609-4ec0-9739-9d64fc4549c0",
+                "8bd070c0-38ad-4373-b8c1-8144c2224b08",
+                "95d1bf1e-26cd-4d1c-969d-3645f5518990",
+                "51f5d145-5d80-4f07-9773-10ce6da1fbdb",
+                "3d3bfbe5-87f6-4793-9c36-dafd3776bc0e",
+                "8ce70ef3-83c3-4fd5-8447-ab26cfe73021",
+                "ea79b4b1-b985-4aed-9595-5fc3afdaa8a5",
+                "09928e12-72ef-4060-b8d2-c24c4ff7a544",
+                "d20665b4-2305-466a-a92a-2e34d7c51145",
+                "cd85d88f-5806-4bdc-9c4c-a5e48babfd30",
+                "07f7f76b-3e72-4f5f-8673-9f5cc551abb8",
+                "1af7fd4c-bc37-4453-9596-a09eeaeff3ae",
+                "2c78e746-9ecd-4d84-a71d-2d90632a9631",
+                "3b09c9b3-f5f4-4037-8943-ba9a18d8f094",
+                "52abf256-ac01-415d-98d9-724822341c98"
+            ]
+        },
+        {
+            "id": 1897,
+            "title": "Gateway and Flow Labels",
+            "description": "You have labeled the gateway 'Weather is sunny?' which is not part of the problem statement. Also, the outgoing flows from this gateway are labeled 'yes' and 'no' which do not match the problem statement. Please ensure to only include and label elements as per the problem statement.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "1af7fd4c-bc37-4453-9596-a09eeaeff3ae",
+                "66fe2424-b0cc-4e50-988c-f0910dd92aa6",
+                "70b979b6-32e9-45c7-be45-518507652a30"
+            ]
+        },
+        {
+            "id": 1898,
+            "title": "Start and End Events",
+            "description": "You have correctly included start and end events in your model. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "cd85d88f-5806-4bdc-9c4c-a5e48babfd30",
+                "95d1bf1e-26cd-4d1c-969d-3645f5518990",
+                "52abf256-ac01-415d-98d9-724822341c98"
+            ]
+        },
+        {
+            "id": 1899,
+            "title": "Order of Activities",
+            "description": "The order of activities in your model does not match the problem statement. For example, 'Assess risk' should come after 'Review request' and before 'Send quote'. Please revise the order of activities to match the problem statement.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "51f5d145-5d80-4f07-9773-10ce6da1fbdb",
+                "3d3bfbe5-87f6-4793-9c36-dafd3776bc0e",
+                "ea79b4b1-b985-4aed-9595-5fc3afdaa8a5"
+            ]
+        },
+        {
+            "id": 1900,
+            "title": "Labeling of Pools and Lanes",
+            "description": "You have correctly labeled the pools 'Loan Applicant' and 'Credit Institute'. However, the lanes within these pools are not labeled. Please ensure to label all pools and lanes in your model.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "1427cd1c-0ea1-4c87-8310-a5f9209fc647",
+                "4c51a0c6-6878-43d2-a4fe-de419327cc75",
+                "7b541d42-7700-4133-8689-03435f4b237c",
+                "d56bc694-5ba1-440d-b338-29edb7014e20"
+            ]
+        },
+        {
+            "id": 1901,
+            "title": "Unnecessary Elements",
+            "description": "Your model includes the gateway 'Weather is sunny?' which is not part of the problem statement. Please remove this gateway and revise your model accordingly.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "1af7fd4c-bc37-4453-9596-a09eeaeff3ae"
+            ]
+        },
+        {
+            "id": 1902,
+            "title": "Connection of Elements",
+            "description": "All elements in your model are correctly connected. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "bfb73810-1996-4579-9ad3-f2752ae4d3d1",
+                "b9db8102-5609-4ec0-9739-9d64fc4549c0",
+                "8bd070c0-38ad-4373-b8c1-8144c2224b08",
+                "95d1bf1e-26cd-4d1c-969d-3645f5518990",
+                "51f5d145-5d80-4f07-9773-10ce6da1fbdb",
+                "3d3bfbe5-87f6-4793-9c36-dafd3776bc0e",
+                "8ce70ef3-83c3-4fd5-8447-ab26cfe73021",
+                "ea79b4b1-b985-4aed-9595-5fc3afdaa8a5",
+                "09928e12-72ef-4060-b8d2-c24c4ff7a544",
+                "d20665b4-2305-466a-a92a-2e34d7c51145",
+                "cd85d88f-5806-4bdc-9c4c-a5e48babfd30",
+                "07f7f76b-3e72-4f5f-8673-9f5cc551abb8",
+                "1af7fd4c-bc37-4453-9596-a09eeaeff3ae",
+                "2c78e746-9ecd-4d84-a71d-2d90632a9631",
+                "3b09c9b3-f5f4-4037-8943-ba9a18d8f094",
+                "52abf256-ac01-415d-98d9-724822341c98"
+            ]
+        },
+        {
+            "id": 1903,
+            "title": "Naming of Activities",
+            "description": "All activities in your model are correctly named in the 'Verb Object'-format. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 29,
+            "elementIds": [
+                "bfb73810-1996-4579-9ad3-f2752ae4d3d1",
+                "b9db8102-5609-4ec0-9739-9d64fc4549c0",
+                "51f5d145-5d80-4f07-9773-10ce6da1fbdb",
+                "3d3bfbe5-87f6-4793-9c36-dafd3776bc0e",
+                "8ce70ef3-83c3-4fd5-8447-ab26cfe73021",
+                "ea79b4b1-b985-4aed-9595-5fc3afdaa8a5",
+                "09928e12-72ef-4060-b8d2-c24c4ff7a544",
+                "d20665b4-2305-466a-a92a-2e34d7c51145"
+            ]
+        }
+    ],
+    "meta": {}
+}

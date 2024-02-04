@@ -1,0 +1,199 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+          "id": 1707082646000000,
+          "title": "Correct Diagram Elements",
+          "description": "You have correctly included all the elements described in the problem statement. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 34,
+          "element_ids": [
+            "4a8efeb8-b1c0-4049-bf2d-ecb954611296",
+            "58709c75-56b6-4a18-a28e-f7e313c924a2",
+            "cc755150-9478-4f04-ab6a-1dd9cd59ccb3",
+            "7361a811-8d0e-433d-a0b5-2088cb054d99",
+            "ddcb9e6b-92ff-46ef-ba66-e5c5a3b52274",
+            "449afcb5-0e9c-4c6f-8251-b6f55df17be4",
+            "7b3343b0-d8cb-475b-86fc-4a65a2ef7e2b",
+            "b3cf8351-3a58-484e-a744-7653407d4707",
+            "7246b02d-f454-48b3-a2ff-4e86842fd46e",
+            "a24e0b32-761a-4778-8326-ec672c704efe",
+            "4526ae88-b154-4cdf-b862-232046ccfb60",
+            "4249a4a9-f2b4-41ed-b98e-521ae88ed5ba",
+            "32484035-b1d9-4a40-8aa9-1be497449cbc",
+            "15dd8874-7bed-48da-af37-bfce04f605b7",
+            "c666d6c3-21fd-47e6-a1c4-ae3a9f7e1914",
+            "033ada5d-d829-4c3d-b391-e1c46cf799e7"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082646000001,
+          "title": "Correct Gateway Labels",
+          "description": "Your gateway labels are correct and the outgoing flows are also labelled. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 34,
+          "element_ids": [
+            "32484035-b1d9-4a40-8aa9-1be497449cbc"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082646000002,
+          "title": "Start Event Present",
+          "description": "You have correctly included a start event in your submission. Keep it up!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 34,
+          "element_ids": [
+            "4526ae88-b154-4cdf-b862-232046ccfb60"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082646000003,
+          "title": "End Event Present",
+          "description": "You have correctly included an end event in your submission. Good work!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 34,
+          "element_ids": [
+            "7361a811-8d0e-433d-a0b5-2088cb054d99",
+            "033ada5d-d829-4c3d-b391-e1c46cf799e7"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082646000004,
+          "title": "Correct Activity Order",
+          "description": "The activities in your diagram are in the correct order as described in the problem statement. Excellent!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 34,
+          "element_ids": [
+            "4a8efeb8-b1c0-4049-bf2d-ecb954611296",
+            "58709c75-56b6-4a18-a28e-f7e313c924a2",
+            "ddcb9e6b-92ff-46ef-ba66-e5c5a3b52274",
+            "449afcb5-0e9c-4c6f-8251-b6f55df17be4",
+            "7b3343b0-d8cb-475b-86fc-4a65a2ef7e2b",
+            "b3cf8351-3a58-484e-a744-7653407d4707",
+            "7246b02d-f454-48b3-a2ff-4e86842fd46e",
+            "a24e0b32-761a-4778-8326-ec672c704efe"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082646001005,
+          "title": "Correct Pool and Lane Labels",
+          "description": "Your pools and lanes are correctly labelled. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 34,
+          "element_ids": [
+            "e2cabfe3-778a-4e5f-bda2-45550fe38028",
+            "2610ef48-d8b8-49ab-93fd-7a8d50c4855b"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082646001006,
+          "title": "No Extra Elements",
+          "description": "Your submission does not contain elements that are not described in the problem statement. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 34,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082646001007,
+          "title": "Correct Element Connections",
+          "description": "All elements in your diagram are correctly connected. Keep it up!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 34,
+          "element_ids": [
+            "4a8efeb8-b1c0-4049-bf2d-ecb954611296",
+            "58709c75-56b6-4a18-a28e-f7e313c924a2",
+            "cc755150-9478-4f04-ab6a-1dd9cd59ccb3",
+            "7361a811-8d0e-433d-a0b5-2088cb054d99",
+            "ddcb9e6b-92ff-46ef-ba66-e5c5a3b52274",
+            "449afcb5-0e9c-4c6f-8251-b6f55df17be4",
+            "7b3343b0-d8cb-475b-86fc-4a65a2ef7e2b",
+            "b3cf8351-3a58-484e-a744-7653407d4707",
+            "7246b02d-f454-48b3-a2ff-4e86842fd46e",
+            "a24e0b32-761a-4778-8326-ec672c704efe",
+            "4526ae88-b154-4cdf-b862-232046ccfb60",
+            "4249a4a9-f2b4-41ed-b98e-521ae88ed5ba",
+            "32484035-b1d9-4a40-8aa9-1be497449cbc",
+            "15dd8874-7bed-48da-af37-bfce04f605b7",
+            "c666d6c3-21fd-47e6-a1c4-ae3a9f7e1914",
+            "033ada5d-d829-4c3d-b391-e1c46cf799e7"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082646001008,
+          "title": "Correct Activity Naming",
+          "description": "Your activities are correctly named in the \"Verb Object\"-format. Excellent!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 34,
+          "element_ids": [
+            "4a8efeb8-b1c0-4049-bf2d-ecb954611296",
+            "58709c75-56b6-4a18-a28e-f7e313c924a2",
+            "ddcb9e6b-92ff-46ef-ba66-e5c5a3b52274",
+            "449afcb5-0e9c-4c6f-8251-b6f55df17be4",
+            "7b3343b0-d8cb-475b-86fc-4a65a2ef7e2b",
+            "b3cf8351-3a58-484e-a744-7653407d4707",
+            "7246b02d-f454-48b3-a2ff-4e86842fd46e",
+            "a24e0b32-761a-4778-8326-ec672c704efe"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082646001009,
+          "title": "Overall Submission",
+          "description": "Your overall submission is excellent. You have correctly followed the problem statement and included all necessary elements in the correct order. Keep up the good work!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 34,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        }
+    ],
+    "meta": {}
+}

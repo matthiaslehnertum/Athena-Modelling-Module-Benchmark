@@ -1,0 +1,144 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1836,
+            "title": "Correct Diagram Elements",
+            "description": "You have correctly included all the elements described in the problem statement. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": [
+                "299e27ef-1438-40b8-9d68-ddcb592e91e0",
+                "aaa4e703-71e2-4d4b-a6fb-156669559e02",
+                "70b513fd-9f70-4070-8a1a-f0aaa8ae03ae",
+                "4d09cb2a-545e-4453-89da-8565b6971fe5",
+                "2ce2acce-a43f-4b1b-905d-557c022f9ed4",
+                "c43b2fd0-56c4-4824-942e-421bc5dc5ccd",
+                "bea017b1-ca84-4cd3-a43d-18a7b6c282cf",
+                "4eef09c5-3cdb-4266-bf07-886432be1bab",
+                "df6f1006-d30e-4e34-a8cd-3952e2ba86e6",
+                "12fbbbd7-615c-404d-ab3e-67ac1320bfa8",
+                "e6a0f5c4-9b6a-4c49-8255-dd262d157587",
+                "68d97c2e-6bfe-4ca2-a151-acb5a17debb9",
+                "90bf0265-c3dd-486f-81d7-a1fc41859706",
+                "f49d2278-182c-4684-b229-5b50c84129c5",
+                "22dc2278-352f-48b2-86cb-1a847b906c04",
+                "71b927d4-6f91-4166-8bd6-29b5b213e1fa"
+            ]
+        },
+        {
+            "id": 1837,
+            "title": "Gateway Labels and Outgoing Flows",
+            "description": "You have correctly labelled the gateway 'Standard terms applicable?' and its outgoing flows. However, the other gateways and their outgoing flows are not labelled. Please ensure to label all gateways and their outgoing flows.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": [
+                "68d97c2e-6bfe-4ca2-a151-acb5a17debb9",
+                "90bf0265-c3dd-486f-81d7-a1fc41859706",
+                "f49d2278-182c-4684-b229-5b50c84129c5",
+                "22dc2278-352f-48b2-86cb-1a847b906c04"
+            ]
+        },
+        {
+            "id": 1838,
+            "title": "Start and End Events",
+            "description": "You have correctly included start and end events in your submission. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": [
+                "e6a0f5c4-9b6a-4c49-8255-dd262d157587",
+                "71b927d4-6f91-4166-8bd6-29b5b213e1fa",
+                "4d09cb2a-545e-4453-89da-8565b6971fe5"
+            ]
+        },
+        {
+            "id": 1839,
+            "title": "Order of Activities",
+            "description": "The order of activities in your diagram does not match the problem statement. Please ensure the activities follow the order as described in the problem statement.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": [
+                "299e27ef-1438-40b8-9d68-ddcb592e91e0",
+                "aaa4e703-71e2-4d4b-a6fb-156669559e02",
+                "2ce2acce-a43f-4b1b-905d-557c022f9ed4",
+                "c43b2fd0-56c4-4824-942e-421bc5dc5ccd",
+                "bea017b1-ca84-4cd3-a43d-18a7b6c282cf",
+                "4eef09c5-3cdb-4266-bf07-886432be1bab",
+                "df6f1006-d30e-4e34-a8cd-3952e2ba86e6",
+                "12fbbbd7-615c-404d-ab3e-67ac1320bfa8"
+            ]
+        },
+        {
+            "id": 1840,
+            "title": "Labelled Pools and Lanes",
+            "description": "You have correctly labelled the pools and lanes in your diagram. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": [
+                "a27bc51b-3458-42fe-8e18-36693a8dc92d",
+                "e12f4fee-fa4a-4a32-bc0c-800a1e6d7f0e",
+                "3f17e141-d325-4d08-9e5e-201bcd263d81",
+                "f6bfd95b-a48d-4538-8bfb-c20dbad701f2"
+            ]
+        },
+        {
+            "id": 1841,
+            "title": "No Extra Elements",
+            "description": "Your submission does not contain any extra elements that are not described in the problem statement. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": []
+        },
+        {
+            "id": 1842,
+            "title": "Connected Elements",
+            "description": "All elements in your diagram are connected. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": []
+        },
+        {
+            "id": 1843,
+            "title": "Activity Naming",
+            "description": "All activities in your diagram are named in the 'Verb Object'-format. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 22,
+            "elementIds": [
+                "299e27ef-1438-40b8-9d68-ddcb592e91e0",
+                "aaa4e703-71e2-4d4b-a6fb-156669559e02",
+                "2ce2acce-a43f-4b1b-905d-557c022f9ed4",
+                "c43b2fd0-56c4-4824-942e-421bc5dc5ccd",
+                "bea017b1-ca84-4cd3-a43d-18a7b6c282cf",
+                "4eef09c5-3cdb-4266-bf07-886432be1bab",
+                "df6f1006-d30e-4e34-a8cd-3952e2ba86e6",
+                "12fbbbd7-615c-404d-ab3e-67ac1320bfa8"
+            ]
+        }
+    ],
+    "meta": {}
+}

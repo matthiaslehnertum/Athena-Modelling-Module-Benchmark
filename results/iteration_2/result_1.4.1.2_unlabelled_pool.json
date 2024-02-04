@@ -1,0 +1,110 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1778,
+            "title": "Correct Diagram Elements",
+            "description": "You have correctly included all the elements described in the problem statement. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": []
+        },
+        {
+            "id": 1779,
+            "title": "Gateway Labels",
+            "description": "You have correctly labeled the gateway 'Standard terms applicable?' and its outgoing flows. However, there are other gateways in your diagram that are not labeled. Remember to label all gateways and their outgoing flows for clarity.",
+            "credits": 0.7,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": [
+                "e0134e78-cc6a-4179-8aa7-d670f839ed48",
+                "bd91defc-2630-4bd7-a3d9-7a68d142f030",
+                "a2007c6d-f4e0-4c1c-b62d-7c3a5295a47e"
+            ]
+        },
+        {
+            "id": 1780,
+            "title": "Start and End Events",
+            "description": "You have correctly included start and end events in your diagram. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": [
+                "f905f70a-a2ed-4ec9-ac5f-71c013c92d6c",
+                "96d4ad1a-c93b-447a-aa37-f7f2fc944049",
+                "53dd047e-b748-45c4-a042-e2a01b2ac934",
+                "628268cf-9155-4a63-b04f-e2a1fbef2625"
+            ]
+        },
+        {
+            "id": 1781,
+            "title": "Activity Order",
+            "description": "The order of activities in your diagram mostly matches the problem statement. However, the 'Prepare contract' task should come before the 'Send quote' task. Please revise this.",
+            "credits": 0.9,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": [
+                "2ee6fff7-417a-4cd4-9ccd-d0b007345bd6",
+                "0d08639c-565e-4139-a375-d68a752a40ba"
+            ]
+        },
+        {
+            "id": 1782,
+            "title": "Pool and Lane Labels",
+            "description": "You have correctly labeled the 'Credit Institute' lane. However, the other participant and lanes are not labeled. Please label all participants and lanes for clarity.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": [
+                "e195afa3-7d4b-4080-96f3-b1a468f21182",
+                "f97312b7-c486-4974-872f-acf9b992aea9"
+            ]
+        },
+        {
+            "id": 1783,
+            "title": "Extra Elements",
+            "description": "Your diagram does not contain any extra elements that are not described in the problem statement. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": []
+        },
+        {
+            "id": 1784,
+            "title": "Element Connections",
+            "description": "All elements in your diagram are correctly connected. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": []
+        },
+        {
+            "id": 1785,
+            "title": "Activity Naming",
+            "description": "You have correctly named all activities in the 'Verb Object'-format. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 15,
+            "elementIds": []
+        }
+    ],
+    "meta": {}
+}

@@ -1,0 +1,151 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1684,
+            "title": "Correct Start and End Events",
+            "description": "You have correctly included start and end events for both the Loan Applicant and the Credit Institute. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": [
+                "bca31b8c-8aad-4de1-84fd-278fd5fc4b29",
+                "0034f2aa-d223-491b-87cf-805389700edf",
+                "c32bbaac-135a-480e-8452-fe4ac303e5cf",
+                "15d0b0dd-4609-4a3e-a3dc-15bd9de1502e"
+            ]
+        },
+        {
+            "id": 1685,
+            "title": "Correct Sequence of Activities",
+            "description": "The sequence of activities in your model matches the problem statement. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": [
+                "28719d01-e39a-400f-ac77-15e33ef2e311",
+                "642f4711-0e14-432f-ac11-933fb4baa104",
+                "48a91181-807a-49bd-8143-f4f7a2da2765",
+                "61101227-f549-4052-8d8a-40f2ee3d98d2",
+                "fce73bc0-277d-4859-9ee6-0bf04fe3c4c9",
+                "135ebefe-79eb-4d9d-9a9f-a6105edbdf53",
+                "04af1914-73ea-4811-9536-eede753bdb59",
+                "3bcc0048-c5bc-4a5a-89d4-edd166f807c6",
+                "7e0febd4-4c64-41e0-805d-bfe6de91da3a",
+                "0b2b12a4-988a-4963-a1aa-0cd84291c550",
+                "74512303-4715-4913-ac68-df0d9be088c7"
+            ]
+        },
+        {
+            "id": 1686,
+            "title": "Correct Labelling of Pools and Lanes",
+            "description": "You have correctly labelled the pools and lanes as 'Loan Applicant' and 'Credit Institute'. Keep it up!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": [
+                "af5a42fe-9c8b-4caa-a89a-704503f29e2a",
+                "9289ec9b-6c18-4a04-90d2-451057ed4d82"
+            ]
+        },
+        {
+            "id": 1687,
+            "title": "Correct Use of Gateways",
+            "description": "You have correctly used gateways in your model. However, please ensure that the outgoing flows from the gateways are also labelled.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": [
+                "642f4711-0e14-432f-ac11-933fb4baa104",
+                "48a91181-807a-49bd-8143-f4f7a2da2765",
+                "7cd7e024-e7de-47b4-88b7-c42f48e78a0f",
+                "3bcc0048-c5bc-4a5a-89d4-edd166f807c6"
+            ]
+        },
+        {
+            "id": 1688,
+            "title": "Correct Use of Message Flows",
+            "description": "You have correctly used message flows in your model. However, please ensure that the message flows are labelled.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": [
+                "aec45998-06bb-4213-a615-8e512c05a855",
+                "af5a42fe-9c8b-4caa-a89a-704503f29e2a"
+            ]
+        },
+        {
+            "id": 1689,
+            "title": "Correct Use of Activities",
+            "description": "You have correctly used activities in your model. However, please ensure that the activities are named in the 'Verb Object'-format.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": [
+                "04af1914-73ea-4811-9536-eede753bdb59",
+                "28719d01-e39a-400f-ac77-15e33ef2e311",
+                "61101227-f549-4052-8d8a-40f2ee3d98d2",
+                "7e0febd4-4c64-41e0-805d-bfe6de91da3a",
+                "fce73bc0-277d-4859-9ee6-0bf04fe3c4c9",
+                "135ebefe-79eb-4d9d-9a9f-a6105edbdf53",
+                "74512303-4715-4913-ac68-df0d9be088c7"
+            ]
+        },
+        {
+            "id": 1690,
+            "title": "Correct Use of Data Objects",
+            "description": "You have used a data object in your model. However, the problem statement does not mention the use of data objects. Please ensure that your model only contains elements that are described in the problem statement.",
+            "credits": 0.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": [
+                "0b2b12a4-988a-4963-a1aa-0cd84291c550"
+            ]
+        },
+        {
+            "id": 1691,
+            "title": "Correct Use of Connections",
+            "description": "You have correctly connected all elements in your model. Great job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 4,
+            "elementIds": [
+                "afec3ee4-4fc7-46a9-9858-469ab1c4b281",
+                "d732643a-331a-47f6-9ec3-5d362c96c743",
+                "73bb7dd9-4938-43e2-b218-5b0fc9e4bff1",
+                "0c74c706-95e2-4a4b-ad08-c218a236fad8",
+                "66fe2424-b0cc-4e50-988c-f0910dd92aa6",
+                "8263561f-d70e-4264-8e6e-6d545c9d4d57",
+                "2c669dc1-ec78-4ce9-af27-6fd58b5f4e17",
+                "3eae3c61-5acf-4687-95d0-c5e16bb689b2",
+                "c09d469a-0377-47f1-a2b5-6662f2afc0b1",
+                "a72d62b3-e113-4b90-bfd9-2480861d1186",
+                "70b979b6-32e9-45c7-be45-518507652a30",
+                "c6ac591f-51fd-4c6e-bdfa-ae74a029d73d",
+                "60e891d4-0604-45e4-b2c7-b6d6b9f72ba2",
+                "2bcae199-700f-44b9-93e1-2dacb6061bd8",
+                "b409934a-f4ad-4bcb-a157-4457c97e17fb",
+                "135ebefe-79eb-4d9d-9a9f-a6105edbdf53",
+                "33d5a376-de45-4f87-a507-570a43ea3ad6"
+            ]
+        }
+    ],
+    "meta": {}
+}

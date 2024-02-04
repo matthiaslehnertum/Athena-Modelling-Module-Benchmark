@@ -1,0 +1,105 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+            "id": 1828,
+            "title": "Correct Diagram Elements",
+            "description": "All elements described in the problem statement are present in your submission. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": []
+        },
+        {
+            "id": 1829,
+            "title": "Gateway and Flow Labels",
+            "description": "Your gateway 'Standard terms applicable?' is correctly labelled, but the outgoing flows are not labelled. Please ensure to label all outgoing flows from a decision gateway for clarity.",
+            "credits": 0.5,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": [
+                "82b7ad9b-914a-41af-9629-18aaa8b4d216"
+            ]
+        },
+        {
+            "id": 1830,
+            "title": "Start and End Events",
+            "description": "Your diagram correctly includes start and end events. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": [
+                "d580e7eb-8962-4893-b0e7-f4b4f82447ae",
+                "da2fb0ce-45bf-4e65-bcf6-2efbe204b883",
+                "e9334f01-3de2-4aa7-8e36-4dbac1f8d164",
+                "45a495af-da41-4a60-b6c8-b0b5f01da4f9"
+            ]
+        },
+        {
+            "id": 1831,
+            "title": "Order of Activities",
+            "description": "The activities in your diagram are in the correct order as described in the problem statement. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": []
+        },
+        {
+            "id": 1832,
+            "title": "Labelled Pools and Lanes",
+            "description": "Your pools and lanes are correctly labelled. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": [
+                "22d66a4a-79df-4b72-8df7-2b7655c491f2",
+                "bb2411e8-2591-42f9-a3c1-df75ff6ce1e5"
+            ]
+        },
+        {
+            "id": 1833,
+            "title": "Extra Elements",
+            "description": "Your submission does not contain elements that are not described in the problem statement. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": []
+        },
+        {
+            "id": 1834,
+            "title": "Connected Elements",
+            "description": "All elements in your diagram are correctly connected. Well done!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": []
+        },
+        {
+            "id": 1835,
+            "title": "Activity Naming",
+            "description": "All activities in your diagram are correctly named in the 'Verb Object'-format. Good job!",
+            "credits": 1.0,
+            "structuredGradingInstructionId": null,
+            "meta": {},
+            "exerciseId": 6,
+            "submissionId": 21,
+            "elementIds": []
+        }
+    ],
+    "meta": {}
+}

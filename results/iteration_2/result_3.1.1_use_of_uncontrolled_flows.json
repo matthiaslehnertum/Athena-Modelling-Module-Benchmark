@@ -1,0 +1,157 @@
+{
+    "module_name": "module_modelling_llm",
+    "status": 200,
+    "data": [
+        {
+          "id": 1707082760320000,
+          "title": "Correct Diagram Elements",
+          "description": "You have correctly identified and included all the necessary elements in your diagram. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 37,
+          "element_ids": [
+            "7fad7f96-67ad-4c0c-a098-847b6e21f955",
+            "b1f01ff6-f8aa-4c6a-94e6-89cfbc94f677",
+            "703ae1a2-0197-4dbd-b908-5568e9c1faaa",
+            "e730ebf9-b63e-4765-9e59-7a3ef6dfd0c0",
+            "8e3a0487-83ef-4e06-a3fc-e27c512932ef",
+            "0c7c2ff2-9810-4e29-8b5d-613aaf2bc5d7",
+            "86120e7e-3dba-4436-a482-5b6708744aea",
+            "b9efb990-9bf9-4471-a00e-e94773be04cd",
+            "68cf4e01-f976-4b7e-a5e2-8a1a550304e1",
+            "dc8de91c-c56e-49b2-ab5d-d7d87f12ddfb",
+            "7b1f8704-1be3-4db6-99f3-add2b62950c6",
+            "d705baee-a112-44a9-8bee-2e2af940c6ca",
+            "b5e3b426-2c30-4527-a332-e1e7f17297fb",
+            "ee14ea28-644c-4f47-9a96-0141239278e6",
+            "b911a86d-0c83-4f42-834a-6b3b821e2fba",
+            "5fb52c6e-e4fc-49f0-ae5b-35fc8e1c33f5"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082760320001,
+          "title": "Gateway Labels and Outgoing Flows",
+          "description": "Your gateway 'Standard terms applicable?' is correctly labelled, but the outgoing flows are not. Remember to label the outgoing flows to make the process clearer.",
+          "credits": 0.5,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 37,
+          "element_ids": [
+            "b5e3b426-2c30-4527-a332-e1e7f17297fb"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082760320002,
+          "title": "Start and End Events",
+          "description": "You have correctly included start and end events in your diagram. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 37,
+          "element_ids": [
+            "7b1f8704-1be3-4db6-99f3-add2b62950c6",
+            "5fb52c6e-e4fc-49f0-ae5b-35fc8e1c33f5",
+            "e730ebf9-b63e-4765-9e59-7a3ef6dfd0c0"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082760320003,
+          "title": "Order of Activities",
+          "description": "The order of activities in your diagram does not match the problem statement. Make sure to arrange the activities in the correct order as described in the problem statement.",
+          "credits": 0.5,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 37,
+          "element_ids": [
+            "7fad7f96-67ad-4c0c-a098-847b6e21f955",
+            "b1f01ff6-f8aa-4c6a-94e6-89cfbc94f677",
+            "8e3a0487-83ef-4e06-a3fc-e27c512932ef",
+            "0c7c2ff2-9810-4e29-8b5d-613aaf2bc5d7",
+            "86120e7e-3dba-4436-a482-5b6708744aea",
+            "b9efb990-9bf9-4471-a00e-e94773be04cd",
+            "68cf4e01-f976-4b7e-a5e2-8a1a550304e1",
+            "dc8de91c-c56e-49b2-ab5d-d7d87f12ddfb"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082760320004,
+          "title": "Labelled Pools and Lanes",
+          "description": "Your pools and lanes are correctly labelled. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 37,
+          "element_ids": [
+            "339bd2f1-3e95-4d0e-a288-1e630c03ee42",
+            "17fefef2-abef-4d16-83e8-ddf61888827b",
+            "06e966b2-c3a3-4346-9f39-b2409633dc93",
+            "cf47e9a9-5be2-4b3c-b293-0aeed1cb8a3c"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082760320005,
+          "title": "No Extra Elements",
+          "description": "Your diagram does not contain any extra elements that are not described in the problem statement. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 37,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082760320006,
+          "title": "Connected Elements",
+          "description": "All elements in your diagram are connected. Good job!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 37,
+          "element_ids": [],
+          "type": "modelling",
+          "isSuggestion": true
+        },
+        {
+          "id": 1707082760320007,
+          "title": "Activity Naming",
+          "description": "Your activities are correctly named in the 'Verb Object'-format. Well done!",
+          "credits": 1,
+          "structured_grading_instruction_id": null,
+          "meta": {},
+          "exercise_id": 6,
+          "submission_id": 37,
+          "element_ids": [
+            "7fad7f96-67ad-4c0c-a098-847b6e21f955",
+            "b1f01ff6-f8aa-4c6a-94e6-89cfbc94f677",
+            "8e3a0487-83ef-4e06-a3fc-e27c512932ef",
+            "0c7c2ff2-9810-4e29-8b5d-613aaf2bc5d7",
+            "86120e7e-3dba-4436-a482-5b6708744aea",
+            "b9efb990-9bf9-4471-a00e-e94773be04cd",
+            "68cf4e01-f976-4b7e-a5e2-8a1a550304e1",
+            "dc8de91c-c56e-49b2-ab5d-d7d87f12ddfb"
+          ],
+          "type": "modelling",
+          "isSuggestion": true
+        }
+    ],
+    "meta": {}
+}
